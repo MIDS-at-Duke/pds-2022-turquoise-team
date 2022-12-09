@@ -5,3 +5,15 @@ For this project, we are trying to address the problem of rising opioid usage an
 Using pre-post difference-in-difference analysis, we created two final reports, one for data scientists and one for policy makers.
 
 ## Members: Beibei Du, Wafiakmal Miftah, Suzanna Thompson, Alisa Tian
+
+## The links to the two reports:
+- https://www.overleaf.com/project/6392b53deec43218f74f3f7a (NICK)
+
+
+- https://www.overleaf.com/project/6392afbdeec43230f44ee503 (POLICY MAKER)
+
+
+## Plan for the video
+
+
+## Presentation Slides Link

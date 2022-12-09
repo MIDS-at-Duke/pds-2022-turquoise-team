@@ -1,0 +1,368 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass{article}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp}
+\else
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+
+%%%% PROJECT TITLE
+\title{Estimate the Impact of Opioid Control Policies (for policymakers)
+\\
+}
+
+\author{\href{mailto:beibei.du@duke.edu}{Beibei Du}, 
+\href{mailto:wafiakmal.miftah@duke.edu}{Wafiakmal Miftah},
+\href{mailto:suzanna.thompson@duke.edu}{Suzanna Thompson},
+\href{mailto:alisa.tian@duke.edu}{Alisa Tian}
+}
+\date{December 12, 2022}
+
+
+\begin{document}
+\maketitle
+% \thispagestyle{firstpage}
+% \begin{document}
+\section{Motivation}
+
+For this project, we are trying to address the problem of rising opioid
+usage and its connection with death by drugs in the United States. We
+have two specific questions: What effect did the opioid policies in
+Texas, Washington, and Florida have on the number of opioid deaths and
+overall drug deaths in those states? In other words, how do opioid
+deaths and overall drug deaths differ in Texas, Washington, and Florida
+from our chosen control states? We will mention how we decide the
+control states in the OverView of the Data part.
+
+To change if the policy intervention is effective is vital for the
+policymakers to improve on the past enactment of the policies on opioid
+usage. There are many papers concerning the drug overdose problem since
+opioid is prescribed as a medication for chronic pain. By the
+neurological property of opioids, the neurotransmitters acetylcholine
+and dopamine are released, which controls people's Central Nervous
+System (CNS) and Peripheral Nervous System(PNS) and makes people feel
+happy accordingly (Janice C. Froehlich). On the other hand, an overdose
+can lead to a lot of severe problems, including death. Thus, to minimize
+the possibility of overdose, we try to answer the two questions
+mentioned above.
+
+\section{Overview of the Data}
+
+Upon choosing the control states, we aim to select the states with
+similar social-demographic characteristics. The following factors are
+considered: state population, education ranking, average income, and
+drug-related death rate, as well as the state's policy response to the
+opioid crisis. We choose the individual treatment state as the baseline.
+For example, when calculating the state's average income based on that
+of Florida, we divide the individual state's population by Florida's
+population. A percentage close to 100\% means the state's population is
+similar to Florida's.
+
+After calculating the similarity for these five indicators (state
+population, education ranking, average income, rate of drug-related
+death, and state's policy response to opioid crisis), the States are
+chosen by a combined weighted metric. Percentages are summed and divided
+by 4. The population is over-impacting the combined metric for Texas, so
+it is excluded. Our control states are decided based on if they are in
+the interval (80\%, 120\%). Also, due to the county designations
+confusion in Alaska in 2010, we have excluded Alaska from our control
+states.
+
+The list of our treatment states and accompanying control states:
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+Treatment State & Control States\tabularnewline
+\midrule
+\endhead
+Texas & Arkansas, California, Georgia, Missouri, New York,
+Wyoming\tabularnewline
+Washington & Hawaii, Iowa, Kansas, Maine, Massachusetts, Minnesota,
+Montana, Nebraska, North Dakota, Oregon, South Dakota, Virginia, and
+Wyoming\tabularnewline
+Florida & California, Nevada, New York\tabularnewline
+\bottomrule
+\end{longtable}
+
+The source of our data are:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \begin{quote}
+  Opioids Prescription/Shipment data (Washington Post):
+  \end{quote}
+\end{enumerate}
+
+\begin{quote}
+In this dataset, it holds all the information of the opioids
+prescription across the years in all states in the United States. This
+dataset is about 100Gb and we select the three states and their
+controlled states to preprocess. The unit of observation for this
+dataset is at the county level. We sum all the data of all counties in a
+state and take that into our analyses.
+\end{quote}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+  \begin{quote}
+  Mortality Rate data (CDC Wonder):
+  \end{quote}
+\end{enumerate}
+
+\begin{quote}
+In this dataset, we have state, county, year, opioid-related cause of
+death and the number of deaths per county and state. The unit of
+observation for this data is at the county level.
+\end{quote}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\item
+  \begin{quote}
+  Population data (CDC Wonder):
+  \end{quote}
+\end{enumerate}
+
+\begin{quote}
+CDC is a reliable system for holding public health data and information
+across the United States.
+\end{quote}
+
+For the shipment \& prescription question, we are excluding Texas as we
+do not have an adequate sample of data.
+
+\section{Analysis}
+
+Our methodology for this project is pre-post and
+difference-in-difference analysis.
+
+\textbf{Hypothesis}:
+
+We hypothesize that there is a causal effect between policy change in
+opioid use and the case of overdose deaths in Florida, Washington, and
+Texas State. We also hypothesize that while opioid prescriptions
+decrease, drug-related deaths as a whole increase or remain stable. We
+suggest this result as there is evidence to suggest that removing a drug
+from an addict does not necessarily imply that the addict will recover.
+In some cases, the addict will switch to a new drug of choice. In other
+cases, the opioid addict will be in recovery and later overdose once
+they're able to find an opioid. This is a well known phenomena as
+addicts may forget that their tolerance for the opioid decreases during
+times of recovery and then try to use the same opioid dose as they were
+using active addiction. In turn, the addict will accidentally overdose.
+We also suppose that opioid prescriptions decrease in Texas, Washington,
+and Florida.
+
+\hypertarget{interpretation-of-the-analysis-strengths-and-limitations}{%
+\subsection{Interpretation of the Analysis (Strengths and
+Limitations)}\label{interpretation-of-the-analysis-strengths-and-limitations}}
+
+\hypertarget{florida}{%
+\subsubsection{Florida}\label{florida}}
+
+{Effects of Regulations on Opioid Shipments}
+
+\includegraphics[width=2.87617in,height=2.19792in]{media/image1.png}\includegraphics[width=3.47292in,height=2.1875in]{media/image2.png}
+
+Figure 1. \emph{Pre-Post and Diff-in-Diff Model for Opioid Shipments in
+Florida and All Control States}
+
+When we looked at the opioid prescription rate, it is obvious that
+Figure 1 shows an upward trend before 2010, when the policy was
+implemented. After its implementation in the year 2010, however, the
+prescription per capita dropped significantly. We also compare it with
+the control states: California, Nevada, and New York. We observe that
+the prescription rate continues to increase after 2010, which is the
+same as our assumption. This difference-in-difference analysis suggests
+that the opioid policy in Florida is successful.
+
+\includegraphics[width=3.23125in,height=2.54192in]{media/image3.png}\includegraphics[width=3.025in,height=2.4943in]{media/image4.png}
+
+Figure 2. \emph{Pre-Post and Diff-in-Diff Model for Mortality Rate in
+Florida and All Control States}
+
+Figure 2 shows the pre-post death rate related to drug use per 100,000
+people in Florida and the difference-in-difference graph for control
+states (California, Nevada, and New York). Florida showed a downward
+trend in the death rate before 2010, when the opioid policy was
+implemented. The pre-post graph showed that the death rate tren line
+dropped even steeper after implementing the policy. Meanwhile, the
+difference-in-difference analysis showed that the death rate in the
+control states decreased slightly. This decreasing graph for Florida
+hints that the opioid policy had a positive impact on decreasing
+drug-related death in Florida.
+
+\hypertarget{texas}{%
+\subsubsection{Texas}\label{texas}}
+
+\includegraphics[width=3.17208in,height=2.46717in]{media/image5.png}\includegraphics[width=2.94375in,height=2.46895in]{media/image6.png}
+
+Figure 3. \emph{Pre-Post and Diff-in-Diff Model for Mortality Rate in
+Texas and All Control States}
+
+Figure 3 shows the pre-post graph for the death rate related to drug use
+per 100,000 people in Texas and the difference-in-difference graph for
+control states (Arkansas, California, Georgia, Missouri, New York, and
+Wyoming). Texas showed a downward trend in the death rate before 2007,
+when the opioid policy was implemented. The pre-post graph showed that
+after implementing the policy, the death rate remained upward and even
+steeper from before. Meanwhile, the difference-in-difference analysis
+showed that the death rate in the control states stagnated after policy
+implementation in 2007. This increasing graph for Texas hints that the
+opioid policy had a negative impact in decreasing drug-related death in
+Texas.
+
+\hypertarget{section}{%
+\subsubsection{}\label{section}}
+
+\hypertarget{washington}{%
+\subsubsection{Washington}\label{washington}}
+
+\includegraphics[width=3.12678in,height=2.25208in]{media/image7.png}\includegraphics[width=2.94583in,height=2.27584in]{media/image8.png}
+
+Figure 4. \emph{Pre-Post and Diff-in-Diff Model for Mortality Rate in
+Washington and All Control States}
+
+Figure 4 shows the pre-post graph for the death rate related to drug use
+per 100,000 people in Washington and the difference-in-difference graph
+for control states (Hawaii, Iowa, Kansas, Maine, Massachusetts,
+Minnesota, Montana, Nebraska, North Dakota, Oregon, South Dakota,
+Virginia, Wyoming). Washington showed a stagnant trend in the death rate
+before 2012, when the opioid policy was implemented. The pre-post graph
+showed that after implementing the policy, the death rate decreased and
+showed a downward trend, but not as steep as before. Meanwhile, the
+difference-in-difference analysis showed that the death rate in the
+control states was stagnant after policy implementation in 2012. This
+slightly decreasing graph for Washington hints that the opioid policy
+had a positive impact in decreasing drug-related death in Washington.
+
+\includegraphics[width=2.80625in,height=2.20036in]{media/image9.png}\includegraphics[width=3.36979in,height=2.21019in]{media/image10.png}
+
+Figure 5. \emph{Pre-Post and Diff-in-Diff Model for Opioid Shipments in
+Washington and All Control States}
+
+Figure 5 shows the pre-post graph for opioid shipment in Morphine Gram
+Equivalent in Washington and the difference-in-difference graph for
+control states (Hawaii, Iowa, Kansas, Maine, Massachusetts, Minnesota,
+Montana, Nebraska, North Dakota, Oregon, South Dakota, Virginia,
+Wyoming). Washington showed an upward trend of opioid shipment per
+100,000 people before 2012, when the opioid policy was implemented. The
+pre-post graph also showed the shipment rate in a stagnant trend after
+implementing the policy. Meanwhile, the difference-in-difference
+analysis showed that the opioid shipment in the control states also
+stagnated after policy implementation in 2012. This stagnated graph for
+Washington hints that the opioid policy had a slightly positive impact
+on decreasing opioid shipments in Washington.
+
+\section{Conclusion}
+
+It is with great importance that you, the policymaker, should take
+appropriate action when handling the opioid crisis. The greatest
+positive impact from our analysis comes from Florida. Florida's death
+rate and prescription \& shipment rate had the biggest change. The rate
+of shipments \& prescriptions decreased as well as the rate of death. In
+conclusion, if you, the policymaker, is seeking a state to model your
+policy after, Florida is the best state to consider when serving your
+constituents.
+
+\section{References}
+
+\begin{quote}
+Centers for Disease Control and Prevention. (2022, September 6).
+\emph{FASTSTATS - deaths and mortality}. Deaths and Mortality. Retrieved
+November 10, 2022, from
+\href{https://www.cdc.gov/nchs/fastats/deaths.htm}{{https://www.cdc.gov/nchs/fastats/deaths.htm}}
+
+Home. Funding for Medication-Assisted Treatment (MAT) - Rural Community
+Toolbox. (n.d.). Retrieved November 29, 2022, from
+\href{https://www.ruralcommunitytoolbox.org/funding/topic/medication-assisted-treatment}{{https://www.ruralcommunitytoolbox.org/funding/topic/medication-assisted-treatment}}
+
+Home Page. LHSFNA. (2022, October 3). Retrieved November 29, 2022, from
+\href{https://www.lhsfna.org/}{{https://www.lhsfna.org/}}
+\end{quote}
+
+Mital, S., Wisdom, A. C., \& Wolff, J. G. (2022). Improving partnerships
+between public health and public safety to reduce overdose deaths: An
+inventory from the CDC overdose data to action funding initiative.
+\emph{Journal of Public Health Management and Practice},
+\emph{28}(Supplement 6).
+\href{https://doi.org/10.1097/phh.0000000000001637}{{https://doi.org/10.1097/phh.0000000000001637}}
+
+\begin{quote}
+Opioid peptides - National Institutes of Health. (n.d.). Retrieved
+November 29, 2022, from
+\href{https://pubs.niaaa.nih.gov/publications/arh21-2/132.pdf}{{https://pubs.niaaa.nih.gov/publications/arh21-2/132.pdf}}
+
+Wickramatilake, S., Zur, J., Mulvaney-Day, N., Klimo, M. C. von, Selmi,
+E., \&amp; Harwood, H. (2017). How states are tackling the opioid
+crisis. Public health reports (Washington, D.C. : 1974). Retrieved
+November 29, 2022, from
+\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5349480/}{{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5349480}}
+\end{quote}
+
+\end{document}

@@ -17347,6 +17347,864 @@
 82704,5,Virginia,"Winchester city, VA",2018,28108,right_only,17.788529955884446,,Control
 82705,5,Virginia,"Winchester city, VA",2019,28078,right_only,17.807536149298382,,Control
 82706,5,Virginia,"Winchester city, VA",2020,27700,right_only,18.050541516245488,,Control
+82707,5,Washington,"Adams County, WA",1999,16239,right_only,30.790073280374408,,Policy
+82708,5,Washington,"Adams County, WA",2000,16428,right_only,30.43584124665206,,Policy
+82709,5,Washington,"Adams County, WA",2001,16259,right_only,30.752198782212925,,Policy
+82710,5,Washington,"Adams County, WA",2002,16445,right_only,30.404378230465188,,Policy
+82711,5,Washington,"Adams County, WA",2003,16612,right_only,30.098723814110283,,Policy
+82712,5,Washington,"Adams County, WA",2004,16664,right_only,30.004800768122898,,Policy
+82713,5,Washington,"Adams County, WA",2005,16918,right_only,29.55432084170706,,Policy
+82714,5,Washington,"Adams County, WA",2006,16997,right_only,29.41695593340001,,Policy
+82715,5,Washington,"Adams County, WA",2007,17413,right_only,28.714179061620626,,Policy
+82716,5,Washington,"Adams County, WA",2008,17782,right_only,28.118321898549095,,Policy
+82717,5,Washington,"Adams County, WA",2009,18405,right_only,27.166530834012494,-3.0,Policy
+82718,5,Washington,"Adams County, WA",2010,18728,right_only,26.69799231097822,-2.0,Policy
+82719,5,Washington,"Adams County, WA",2011,19027,right_only,26.27844641824775,-1.0,Policy
+82720,5,Washington,"Adams County, WA",2012,19005,right_only,26.308866087871614,0.0,Policy
+82721,5,Washington,"Adams County, WA",2013,19067,right_only,26.223317774164784,1.0,Policy
+82722,5,Washington,"Adams County, WA",2014,19179,right_only,26.070180927055635,2.0,Policy
+82723,5,Washington,"Adams County, WA",2015,19254,right_only,25.968629895086735,,Policy
+82724,5,Washington,"Adams County, WA",2016,19238,right_only,25.99022767439443,,Policy
+82725,5,Washington,"Adams County, WA",2017,19506,right_only,25.633138521480568,,Policy
+82726,5,Washington,"Adams County, WA",2018,19759,right_only,25.304924338276226,,Policy
+82727,5,Washington,"Adams County, WA",2019,19983,right_only,25.02126807786619,,Policy
+82728,5,Washington,"Adams County, WA",2020,20027,right_only,24.966295501073553,,Policy
+82729,5,Washington,"Asotin County, WA",1999,20560,right_only,24.31906614785992,,Policy
+82730,5,Washington,"Asotin County, WA",2000,20551,right_only,24.329716315507763,,Policy
+82731,5,Washington,"Asotin County, WA",2001,20447,right_only,24.453465055998432,,Policy
+82732,5,Washington,"Asotin County, WA",2002,20490,right_only,24.40214738897023,,Policy
+82733,5,Washington,"Asotin County, WA",2003,20487,right_only,24.4057207009323,,Policy
+82734,5,Washington,"Asotin County, WA",2004,20783,right_only,24.058124428619546,,Policy
+82735,5,Washington,"Asotin County, WA",2005,20908,right_only,23.914291180409414,,Policy
+82736,5,Washington,"Asotin County, WA",2006,21133,right_only,23.65967917475039,,Policy
+82737,5,Washington,"Asotin County, WA",2007,21188,right_only,23.598263167830847,,Policy
+82738,5,Washington,"Asotin County, WA",2008,21393,right_only,23.372131070911045,,Policy
+82739,5,Washington,"Asotin County, WA",2009,21415,right_only,23.34812047630166,-3.0,Policy
+82740,5,Washington,"Asotin County, WA",2010,21623,right_only,23.123525875225454,-2.0,Policy
+82741,5,Washington,"Asotin County, WA",2011,21933,right_only,22.7966990379793,-1.0,Policy
+82742,5,Washington,"Asotin County, WA",2012,21888,right_only,22.843567251461987,0.0,Policy
+82743,5,Washington,"Asotin County, WA",2013,22110,right_only,22.61420171867933,1.0,Policy
+82744,5,Washington,"Asotin County, WA",2014,22189,right_only,22.533687863355716,2.0,Policy
+82745,5,Washington,"Asotin County, WA",2015,22105,right_only,22.619316896629723,,Policy
+82746,5,Washington,"Asotin County, WA",2016,22306,right_only,22.415493589168836,,Policy
+82747,5,Washington,"Asotin County, WA",2017,22535,right_only,22.18770800976259,,Policy
+82748,5,Washington,"Asotin County, WA",2018,22610,right_only,22.114108801415306,,Policy
+82749,5,Washington,"Asotin County, WA",2019,22582,right_only,22.141528651138074,,Policy
+82750,5,Washington,"Asotin County, WA",2020,22820,right_only,21.910604732690622,,Policy
+82751,5,Washington,"Benton County, WA",1999,140629,right_only,3.5554544226297566,,Policy
+82752,5,Washington,"Benton County, WA",2000,142475,right_only,3.50938761186173,,Policy
+82753,5,Washington,"Benton County, WA",2001,145909,right_only,3.4267934123323442,,Policy
+82754,5,Washington,"Benton County, WA",2002,150323,right_only,3.3261709784929785,,Policy
+82755,5,Washington,"Benton County, WA",2003,153596,right_only,3.255293106591317,,Policy
+82756,5,Washington,"Benton County, WA",2004,155689,right_only,3.2115306797525833,,Policy
+82757,5,Washington,"Benton County, WA",2005,157726,right_only,3.170054398133472,,Policy
+82758,5,Washington,"Benton County, WA",2006,159564,right_only,3.133538893484746,,Policy
+82759,5,Washington,"Benton County, WA",2007,161669,right_only,3.092738867686446,,Policy
+82760,5,Washington,"Benton County, WA",2008,166573,right_only,3.0016869480648123,,Policy
+82761,5,Washington,"Benton County, WA",2009,171122,right_only,2.921891983497154,-3.0,Policy
+82762,5,Washington,"Benton County, WA",2010,175177,right_only,2.8542559810934085,-2.0,Policy
+82763,5,Washington,"Benton County, WA",2011,180678,right_only,2.7673540774194976,-1.0,Policy
+82764,5,Washington,"Benton County, WA",2012,182398,right_only,2.741258127830349,0.0,Policy
+82765,5,Washington,"Benton County, WA",2013,184486,right_only,2.710232754788981,1.0,Policy
+82766,5,Washington,"Benton County, WA",2014,186486,right_only,2.681166414637024,2.0,Policy
+82767,5,Washington,"Benton County, WA",2015,190309,right_only,2.627306117945026,,Policy
+82768,5,Washington,"Benton County, WA",2016,193686,right_only,2.5814978883347277,,Policy
+82769,5,Washington,"Benton County, WA",2017,198171,right_only,2.5230735072235593,,Policy
+82770,5,Washington,"Benton County, WA",2018,201877,right_only,2.4767556482412556,,Policy
+82771,5,Washington,"Benton County, WA",2019,204390,right_only,2.446303635207202,,Policy
+82772,5,Washington,"Benton County, WA",2020,206426,right_only,2.422175501148111,,Policy
+82773,5,Washington,"Chelan County, WA",1999,65764,right_only,7.602943859862538,,Policy
+82774,5,Washington,"Chelan County, WA",2000,66616,right_only,7.505704335294824,,Policy
+82775,5,Washington,"Chelan County, WA",2001,66574,right_only,7.510439510920179,,Policy
+82776,5,Washington,"Chelan County, WA",2002,66742,right_only,7.491534565940488,,Policy
+82777,5,Washington,"Chelan County, WA",2003,67173,right_only,7.443466869128965,,Policy
+82778,5,Washington,"Chelan County, WA",2004,67882,right_only,7.365722872042662,,Policy
+82779,5,Washington,"Chelan County, WA",2005,68747,right_only,7.273044641948012,,Policy
+82780,5,Washington,"Chelan County, WA",2006,69536,right_only,7.190520018407731,,Policy
+82781,5,Washington,"Chelan County, WA",2007,70214,right_only,7.1210869627139886,,Policy
+82782,5,Washington,"Chelan County, WA",2008,70813,right_only,7.060850408823239,,Policy
+82783,5,Washington,"Chelan County, WA",2009,71679,right_only,6.975543743634817,-3.0,Policy
+82784,5,Washington,"Chelan County, WA",2010,72453,right_only,6.901025492388169,-2.0,Policy
+82785,5,Washington,"Chelan County, WA",2011,73477,right_only,6.804850497434572,-1.0,Policy
+82786,5,Washington,"Chelan County, WA",2012,73687,right_only,6.785457407683852,0.0,Policy
+82787,5,Washington,"Chelan County, WA",2013,73967,right_only,6.759771249340923,1.0,Policy
+82788,5,Washington,"Chelan County, WA",2014,74588,right_only,6.703491178205609,2.0,Policy
+82789,5,Washington,"Chelan County, WA",2015,75644,right_only,6.609909576436995,,Policy
+82790,5,Washington,"Chelan County, WA",2016,76338,right_only,6.54981791506196,,Policy
+82791,5,Washington,"Chelan County, WA",2017,76533,right_only,6.533129499692944,,Policy
+82792,5,Washington,"Chelan County, WA",2018,77036,right_only,6.490471987122904,,Policy
+82793,5,Washington,"Chelan County, WA",2019,77200,right_only,6.476683937823834,,Policy
+82794,5,Washington,"Chelan County, WA",2020,77574,right_only,6.445458529919819,,Policy
+82795,5,Washington,"Clallam County, WA",1999,64252,right_only,7.781858930461309,,Policy
+82796,5,Washington,"Clallam County, WA",2000,64525,right_only,7.748934521503292,,Policy
+82797,5,Washington,"Clallam County, WA",2001,64756,right_only,7.721292235468528,,Policy
+82798,5,Washington,"Clallam County, WA",2002,65777,right_only,7.601441233257826,,Policy
+82799,5,Washington,"Clallam County, WA",2003,66301,right_only,7.541364383644289,,Policy
+82800,5,Washington,"Clallam County, WA",2004,67411,right_only,7.417187105961935,,Policy
+82801,5,Washington,"Clallam County, WA",2005,68720,right_only,7.275902211874272,,Policy
+82802,5,Washington,"Clallam County, WA",2006,69642,right_only,7.179575543493868,,Policy
+82803,5,Washington,"Clallam County, WA",2007,70186,right_only,7.123927848858747,,Policy
+82804,5,Washington,"Clallam County, WA",2008,70769,right_only,7.065240430131838,,Policy
+82805,5,Washington,"Clallam County, WA",2009,71077,right_only,7.034624421402141,-3.0,Policy
+82806,5,Washington,"Clallam County, WA",2010,71404,right_only,7.002408828637051,-2.0,Policy
+82807,5,Washington,"Clallam County, WA",2011,71838,right_only,6.960104679974386,-1.0,Policy
+82808,5,Washington,"Clallam County, WA",2012,71863,right_only,6.95768336974521,0.0,Policy
+82809,5,Washington,"Clallam County, WA",2013,72312,right_only,6.914481690452483,1.0,Policy
+82810,5,Washington,"Clallam County, WA",2014,72715,right_only,6.87616035205941,2.0,Policy
+82811,5,Washington,"Clallam County, WA",2015,73486,right_only,6.804017091690935,,Policy
+82812,5,Washington,"Clallam County, WA",2016,74570,right_only,6.705109293281481,,Policy
+82813,5,Washington,"Clallam County, WA",2017,75474,right_only,6.624797943662719,,Policy
+82814,5,Washington,"Clallam County, WA",2018,76737,right_only,6.515761627376625,,Policy
+82815,5,Washington,"Clallam County, WA",2019,77331,right_only,6.4657123275271235,,Policy
+82816,5,Washington,"Clallam County, WA",2020,78067,right_only,6.4047548900303575,,Policy
+82817,5,Washington,"Clark County, WA",1999,339541,right_only,1.4725762131819133,,Policy
+82818,5,Washington,"Clark County, WA",2000,345238,right_only,1.4482762615934515,,Policy
+82819,5,Washington,"Clark County, WA",2001,357211,right_only,1.3997329309567734,,Policy
+82820,5,Washington,"Clark County, WA",2002,366405,right_only,1.364610199096628,,Policy
+82821,5,Washington,"Clark County, WA",2003,374098,right_only,1.3365481772155958,,Policy
+82822,5,Washington,"Clark County, WA",2004,384931,right_only,1.298934094681904,,Policy
+82823,5,Washington,"Clark County, WA",2005,394277,right_only,1.268143969848609,,Policy
+82824,5,Washington,"Clark County, WA",2006,401698,right_only,1.2447161798166781,,Policy
+82825,5,Washington,"Clark County, WA",2007,408820,right_only,1.223032141284673,,Policy
+82826,5,Washington,"Clark County, WA",2008,415282,right_only,1.2040011365770729,,Policy
+82827,5,Washington,"Clark County, WA",2009,421236,right_only,1.1869830688735057,-3.0,Policy
+82828,5,Washington,"Clark County, WA",2010,425363,right_only,1.1754666014674526,-2.0,Policy
+82829,5,Washington,"Clark County, WA",2011,433418,right_only,1.1536207540988146,-1.0,Policy
+82830,5,Washington,"Clark County, WA",2012,438287,right_only,1.1408049976385337,0.0,Policy
+82831,5,Washington,"Clark County, WA",2013,443817,right_only,1.1265904640876758,1.0,Policy
+82832,5,Washington,"Clark County, WA",2014,451008,right_only,1.1086277848729955,2.0,Policy
+82833,5,Washington,"Clark County, WA",2015,459495,right_only,1.0881511224278828,,Policy
+82834,5,Washington,"Clark County, WA",2016,467018,right_only,1.0706225455978142,,Policy
+82835,5,Washington,"Clark County, WA",2017,474643,right_only,1.0534233097296284,,Policy
+82836,5,Washington,"Clark County, WA",2018,481857,right_only,1.0376522495263116,,Policy
+82837,5,Washington,"Clark County, WA",2019,488241,right_only,1.024084417326689,,Policy
+82838,5,Washington,"Clark County, WA",2020,496865,right_only,1.0063095609471384,,Policy
+82839,5,Washington,"Columbia County, WA",1999,4061,right_only,123.12238364934746,,Policy
+82840,5,Washington,"Columbia County, WA",2000,4064,right_only,123.03149606299212,,Policy
+82841,5,Washington,"Columbia County, WA",2001,4034,right_only,123.94645513138325,,Policy
+82842,5,Washington,"Columbia County, WA",2002,3995,right_only,125.15644555694618,,Policy
+82843,5,Washington,"Columbia County, WA",2003,4003,right_only,124.90632025980516,,Policy
+82844,5,Washington,"Columbia County, WA",2004,4027,right_only,124.16190712689348,,Policy
+82845,5,Washington,"Columbia County, WA",2005,3974,right_only,125.81781580271766,,Policy
+82846,5,Washington,"Columbia County, WA",2006,3895,right_only,128.36970474967907,,Policy
+82847,5,Washington,"Columbia County, WA",2007,3897,right_only,128.30382345393892,,Policy
+82848,5,Washington,"Columbia County, WA",2008,3903,right_only,128.10658467845246,,Policy
+82849,5,Washington,"Columbia County, WA",2009,3977,right_only,125.72290671360321,-3.0,Policy
+82850,5,Washington,"Columbia County, WA",2010,4078,right_only,122.60912211868563,-2.0,Policy
+82851,5,Washington,"Columbia County, WA",2011,4050,right_only,123.45679012345678,-1.0,Policy
+82852,5,Washington,"Columbia County, WA",2012,3995,right_only,125.15644555694618,0.0,Policy
+82853,5,Washington,"Columbia County, WA",2013,4032,right_only,124.0079365079365,1.0,Policy
+82854,5,Washington,"Columbia County, WA",2014,3985,right_only,125.47051442910914,2.0,Policy
+82855,5,Washington,"Columbia County, WA",2015,3944,right_only,126.77484787018255,,Policy
+82856,5,Washington,"Columbia County, WA",2016,3938,right_only,126.96800406297614,,Policy
+82857,5,Washington,"Columbia County, WA",2017,4047,right_only,123.54830738818879,,Policy
+82858,5,Washington,"Columbia County, WA",2018,4059,right_only,123.1830500123183,,Policy
+82859,5,Washington,"Columbia County, WA",2019,3985,right_only,125.47051442910914,,Policy
+82860,5,Washington,"Columbia County, WA",2020,4048,right_only,123.51778656126483,,Policy
+82861,5,Washington,"Cowlitz County, WA",1999,92820,right_only,5.386770092652445,,Policy
+82862,5,Washington,"Cowlitz County, WA",2000,92948,right_only,5.379351895683608,,Policy
+82863,5,Washington,"Cowlitz County, WA",2001,93608,right_only,5.341423809930776,,Policy
+82864,5,Washington,"Cowlitz County, WA",2002,94325,right_only,5.3008216273522395,,Policy
+82865,5,Washington,"Cowlitz County, WA",2003,94516,right_only,5.290109611071141,,Policy
+82866,5,Washington,"Cowlitz County, WA",2004,95541,right_only,5.23335531342565,,Policy
+82867,5,Washington,"Cowlitz County, WA",2005,96536,right_only,5.179414933289135,,Policy
+82868,5,Washington,"Cowlitz County, WA",2006,99162,right_only,5.042254089268066,,Policy
+82869,5,Washington,"Cowlitz County, WA",2007,100744,right_only,4.963074724053046,,Policy
+82870,5,Washington,"Cowlitz County, WA",2008,101688,right_only,4.917001022736213,,Policy
+82871,5,Washington,"Cowlitz County, WA",2009,102126,right_only,4.895912891917827,-3.0,Policy
+82872,5,Washington,"Cowlitz County, WA",2010,102410,right_only,4.882335709403378,-2.0,Policy
+82873,5,Washington,"Cowlitz County, WA",2011,102478,right_only,4.879096001092917,-1.0,Policy
+82874,5,Washington,"Cowlitz County, WA",2012,101996,right_only,4.902153025608847,0.0,Policy
+82875,5,Washington,"Cowlitz County, WA",2013,101860,right_only,4.90869821323385,1.0,Policy
+82876,5,Washington,"Cowlitz County, WA",2014,102133,right_only,4.895577335435168,2.0,Policy
+82877,5,Washington,"Cowlitz County, WA",2015,103468,right_only,4.8324119534542085,,Policy
+82878,5,Washington,"Cowlitz County, WA",2016,105160,right_only,4.7546595663750475,,Policy
+82879,5,Washington,"Cowlitz County, WA",2017,106910,right_only,4.6768309793284075,,Policy
+82880,5,Washington,"Cowlitz County, WA",2018,108987,right_only,4.587703120555663,,Policy
+82881,5,Washington,"Cowlitz County, WA",2019,110593,right_only,4.52108180445417,,Policy
+82882,5,Washington,"Cowlitz County, WA",2020,111371,right_only,4.489499061694696,,Policy
+82883,5,Washington,"Douglas County, WA",1999,32572,right_only,15.35060788407221,,Policy
+82884,5,Washington,"Douglas County, WA",2000,32603,right_only,15.336012023433428,,Policy
+82885,5,Washington,"Douglas County, WA",2001,32787,right_only,15.249946625186812,,Policy
+82886,5,Washington,"Douglas County, WA",2002,33044,right_only,15.131340031473187,,Policy
+82887,5,Washington,"Douglas County, WA",2003,33481,right_only,14.933843075176965,,Policy
+82888,5,Washington,"Douglas County, WA",2004,34086,right_only,14.668778970838467,,Policy
+82889,5,Washington,"Douglas County, WA",2005,34622,right_only,14.441684478077523,,Policy
+82890,5,Washington,"Douglas County, WA",2006,35558,right_only,14.061533269587716,,Policy
+82891,5,Washington,"Douglas County, WA",2007,36503,right_only,13.697504314713859,,Policy
+82892,5,Washington,"Douglas County, WA",2008,37216,right_only,13.435081685296646,,Policy
+82893,5,Washington,"Douglas County, WA",2009,37935,right_only,13.180440226703572,-3.0,Policy
+82894,5,Washington,"Douglas County, WA",2010,38431,right_only,13.010330202180532,-2.0,Policy
+82895,5,Washington,"Douglas County, WA",2011,38971,right_only,12.830053116419903,-1.0,Policy
+82896,5,Washington,"Douglas County, WA",2012,39350,right_only,12.706480304955527,0.0,Policy
+82897,5,Washington,"Douglas County, WA",2013,39471,right_only,12.66752805857465,1.0,Policy
+82898,5,Washington,"Douglas County, WA",2014,39804,right_only,12.561551602853983,2.0,Policy
+82899,5,Washington,"Douglas County, WA",2015,40534,right_only,12.335323432180392,,Policy
+82900,5,Washington,"Douglas County, WA",2016,41327,right_only,12.098628015583033,,Policy
+82901,5,Washington,"Douglas County, WA",2017,41945,right_only,11.920371915603766,,Policy
+82902,5,Washington,"Douglas County, WA",2018,42907,right_only,11.653110215116413,,Policy
+82903,5,Washington,"Douglas County, WA",2019,43429,right_only,11.513044279168298,,Policy
+82904,5,Washington,"Douglas County, WA",2020,43560,right_only,11.47842056932966,,Policy
+82905,5,Washington,"Ferry County, WA",1999,7155,right_only,69.88120195667365,,Policy
+82906,5,Washington,"Ferry County, WA",2000,7260,right_only,68.87052341597796,,Policy
+82907,5,Washington,"Ferry County, WA",2001,7285,right_only,68.63417982155113,,Policy
+82908,5,Washington,"Ferry County, WA",2002,7280,right_only,68.68131868131869,,Policy
+82909,5,Washington,"Ferry County, WA",2003,7424,right_only,67.34913793103449,,Policy
+82910,5,Washington,"Ferry County, WA",2004,7478,right_only,66.86279753944905,,Policy
+82911,5,Washington,"Ferry County, WA",2005,7495,right_only,66.71114076050699,,Policy
+82912,5,Washington,"Ferry County, WA",2006,7562,right_only,66.12007405448294,,Policy
+82913,5,Washington,"Ferry County, WA",2007,7430,right_only,67.29475100942126,,Policy
+82914,5,Washington,"Ferry County, WA",2008,7439,right_only,67.21333512568893,,Policy
+82915,5,Washington,"Ferry County, WA",2009,7538,right_only,66.33059166887769,-3.0,Policy
+82916,5,Washington,"Ferry County, WA",2010,7551,right_only,66.21639517944644,-2.0,Policy
+82917,5,Washington,"Ferry County, WA",2011,7689,right_only,65.02796202367017,-1.0,Policy
+82918,5,Washington,"Ferry County, WA",2012,7705,right_only,64.89292667099286,0.0,Policy
+82919,5,Washington,"Ferry County, WA",2013,7646,right_only,65.39366989275437,1.0,Policy
+82920,5,Washington,"Ferry County, WA",2014,7667,right_only,65.2145558888744,2.0,Policy
+82921,5,Washington,"Ferry County, WA",2015,7582,right_only,65.94566077552098,,Policy
+82922,5,Washington,"Ferry County, WA",2016,7614,right_only,65.66850538481745,,Policy
+82923,5,Washington,"Ferry County, WA",2017,7594,right_only,65.84145377929944,,Policy
+82924,5,Washington,"Ferry County, WA",2018,7649,right_only,65.36802196365538,,Policy
+82925,5,Washington,"Ferry County, WA",2019,7627,right_only,65.55657532450505,,Policy
+82926,5,Washington,"Ferry County, WA",2020,7759,right_only,64.44129398118315,,Policy
+82927,5,Washington,"Franklin County, WA",1999,48396,right_only,10.331432349780973,,Policy
+82928,5,Washington,"Franklin County, WA",2000,49347,right_only,10.132328206375261,,Policy
+82929,5,Washington,"Franklin County, WA",2001,50511,right_only,9.898833917364534,,Policy
+82930,5,Washington,"Franklin County, WA",2002,52365,right_only,9.548362455838824,,Policy
+82931,5,Washington,"Franklin County, WA",2003,55447,right_only,9.017620430320846,,Policy
+82932,5,Washington,"Franklin County, WA",2004,58165,right_only,8.596234849136078,,Policy
+82933,5,Washington,"Franklin County, WA",2005,61360,right_only,8.148631029986962,,Policy
+82934,5,Washington,"Franklin County, WA",2006,64585,right_only,7.7417356971433,,Policy
+82935,5,Washington,"Franklin County, WA",2007,67586,right_only,7.397981830556624,,Policy
+82936,5,Washington,"Franklin County, WA",2008,70775,right_only,7.064641469445426,,Policy
+82937,5,Washington,"Franklin County, WA",2009,74478,right_only,6.713391874110475,-3.0,Policy
+82938,5,Washington,"Franklin County, WA",2010,78163,right_only,6.3968885534076225,-2.0,Policy
+82939,5,Washington,"Franklin County, WA",2011,83455,right_only,5.991252770954406,-1.0,Policy
+82940,5,Washington,"Franklin County, WA",2012,85845,right_only,5.824451045488963,0.0,Policy
+82941,5,Washington,"Franklin County, WA",2013,86638,right_only,5.771139684664927,1.0,Policy
+82942,5,Washington,"Franklin County, WA",2014,87809,right_only,5.694177134462299,2.0,Policy
+82943,5,Washington,"Franklin County, WA",2015,88807,right_only,5.630186809598342,,Policy
+82944,5,Washington,"Franklin County, WA",2016,90160,right_only,5.54569653948536,,Policy
+82945,5,Washington,"Franklin County, WA",2017,92125,right_only,5.4274084124830395,,Policy
+82946,5,Washington,"Franklin County, WA",2018,94347,right_only,5.299585572408238,,Policy
+82947,5,Washington,"Franklin County, WA",2019,95222,right_only,5.250887399970595,,Policy
+82948,5,Washington,"Franklin County, WA",2020,97075,right_only,5.150656708730363,,Policy
+82949,5,Washington,"Garfield County, WA",1999,2410,right_only,207.4688796680498,,Policy
+82950,5,Washington,"Garfield County, WA",2000,2397,right_only,208.59407592824365,,Policy
+82951,5,Washington,"Garfield County, WA",2001,2313,right_only,216.16947686986597,,Policy
+82952,5,Washington,"Garfield County, WA",2002,2293,right_only,218.0549498473615,,Policy
+82953,5,Washington,"Garfield County, WA",2003,2316,right_only,215.88946459412782,,Policy
+82954,5,Washington,"Garfield County, WA",2004,2270,right_only,220.26431718061676,,Policy
+82955,5,Washington,"Garfield County, WA",2005,2274,right_only,219.87686895338612,,Policy
+82956,5,Washington,"Garfield County, WA",2006,2245,right_only,222.71714922048997,,Policy
+82957,5,Washington,"Garfield County, WA",2007,2203,right_only,226.96323195642307,,Policy
+82958,5,Washington,"Garfield County, WA",2008,2244,right_only,222.81639928698752,,Policy
+82959,5,Washington,"Garfield County, WA",2009,2237,right_only,223.51363433169422,-3.0,Policy
+82960,5,Washington,"Garfield County, WA",2010,2266,right_only,220.6531332744925,-2.0,Policy
+82961,5,Washington,"Garfield County, WA",2011,2262,right_only,221.04332449160037,-1.0,Policy
+82962,5,Washington,"Garfield County, WA",2012,2228,right_only,224.4165170556553,0.0,Policy
+82963,5,Washington,"Garfield County, WA",2013,2256,right_only,221.63120567375887,1.0,Policy
+82964,5,Washington,"Garfield County, WA",2014,2215,right_only,225.7336343115124,2.0,Policy
+82965,5,Washington,"Garfield County, WA",2015,2219,right_only,225.3267237494367,,Policy
+82966,5,Washington,"Garfield County, WA",2016,2247,right_only,222.51891410769915,,Policy
+82967,5,Washington,"Garfield County, WA",2017,2210,right_only,226.24434389140274,,Policy
+82968,5,Washington,"Garfield County, WA",2018,2247,right_only,222.51891410769915,,Policy
+82969,5,Washington,"Garfield County, WA",2019,2225,right_only,224.71910112359552,,Policy
+82970,5,Washington,"Garfield County, WA",2020,2290,right_only,218.34061135371178,,Policy
+82971,5,Washington,"Grant County, WA",1999,73928,right_only,6.763337301157884,,Policy
+82972,5,Washington,"Grant County, WA",2000,74698,right_only,6.6936196417574765,,Policy
+82973,5,Washington,"Grant County, WA",2001,76044,right_only,6.575140708011151,,Policy
+82974,5,Washington,"Grant County, WA",2002,76944,right_only,6.498232480765231,,Policy
+82975,5,Washington,"Grant County, WA",2003,77955,right_only,6.413956769931371,,Policy
+82976,5,Washington,"Grant County, WA",2004,78734,right_only,6.350496608834811,,Policy
+82977,5,Washington,"Grant County, WA",2005,79531,right_only,6.28685669738844,,Policy
+82978,5,Washington,"Grant County, WA",2006,81036,right_only,6.170097240732513,,Policy
+82979,5,Washington,"Grant County, WA",2007,82645,right_only,6.049972775122511,,Policy
+82980,5,Washington,"Grant County, WA",2008,84944,right_only,5.886230928611791,,Policy
+82981,5,Washington,"Grant County, WA",2009,87340,right_only,5.72475383558507,-3.0,Policy
+82982,5,Washington,"Grant County, WA",2010,89120,right_only,5.6104129263913824,-2.0,Policy
+82983,5,Washington,"Grant County, WA",2011,91265,right_only,5.47855147099107,-1.0,Policy
+82984,5,Washington,"Grant County, WA",2012,91723,right_only,5.451195447161562,0.0,Policy
+82985,5,Washington,"Grant County, WA",2013,91878,right_only,5.441999172816126,1.0,Policy
+82986,5,Washington,"Grant County, WA",2014,93147,right_only,5.367859405026464,2.0,Policy
+82987,5,Washington,"Grant County, WA",2015,93259,right_only,5.361412839511468,,Policy
+82988,5,Washington,"Grant County, WA",2016,93546,right_only,5.344963974942809,,Policy
+82989,5,Washington,"Grant County, WA",2017,95158,right_only,5.254418966350701,,Policy
+82990,5,Washington,"Grant County, WA",2018,97331,right_only,5.137109451253968,,Policy
+82991,5,Washington,"Grant County, WA",2019,97733,right_only,5.115979249588164,,Policy
+82992,5,Washington,"Grant County, WA",2020,99377,right_only,5.0313452811012604,,Policy
+82993,5,Washington,"Grays Harbor County, WA",1999,67265,right_only,7.433286255853713,,Policy
+82994,5,Washington,"Grays Harbor County, WA",2000,67194,right_only,7.441140578027801,,Policy
+82995,5,Washington,"Grays Harbor County, WA",2001,67896,right_only,7.364204076823377,,Policy
+82996,5,Washington,"Grays Harbor County, WA",2002,68264,right_only,7.32450486347123,,Policy
+82997,5,Washington,"Grays Harbor County, WA",2003,69065,right_only,7.239556939115326,,Policy
+82998,5,Washington,"Grays Harbor County, WA",2004,69775,right_only,7.165890361877464,,Policy
+82999,5,Washington,"Grays Harbor County, WA",2005,70423,right_only,7.099953140309275,,Policy
+83000,5,Washington,"Grays Harbor County, WA",2006,71256,right_only,7.016952958347367,,Policy
+83001,5,Washington,"Grays Harbor County, WA",2007,71827,right_only,6.961170590446489,,Policy
+83002,5,Washington,"Grays Harbor County, WA",2008,72027,right_only,6.941841253974204,,Policy
+83003,5,Washington,"Grays Harbor County, WA",2009,72468,right_only,6.899597063531489,-3.0,Policy
+83004,5,Washington,"Grays Harbor County, WA",2010,72797,right_only,6.868414907207715,-2.0,Policy
+83005,5,Washington,"Grays Harbor County, WA",2011,72546,right_only,6.892178755548204,-1.0,Policy
+83006,5,Washington,"Grays Harbor County, WA",2012,71692,right_only,6.974278859565921,0.0,Policy
+83007,5,Washington,"Grays Harbor County, WA",2013,71078,right_only,7.0345254509130815,1.0,Policy
+83008,5,Washington,"Grays Harbor County, WA",2014,70818,right_only,7.060351887938095,2.0,Policy
+83009,5,Washington,"Grays Harbor County, WA",2015,71122,right_only,7.030173504682096,,Policy
+83010,5,Washington,"Grays Harbor County, WA",2016,71628,right_only,6.980510414921539,,Policy
+83011,5,Washington,"Grays Harbor County, WA",2017,72697,right_only,6.87786291043647,,Policy
+83012,5,Washington,"Grays Harbor County, WA",2018,73901,right_only,6.7658083111189296,,Policy
+83013,5,Washington,"Grays Harbor County, WA",2019,75061,right_only,6.661248850934573,,Policy
+83014,5,Washington,"Grays Harbor County, WA",2020,75950,right_only,6.583278472679393,,Policy
+83015,5,Washington,"Island County, WA",1999,70440,right_only,7.09823963657013,,Policy
+83016,5,Washington,"Island County, WA",2000,71558,right_only,6.987338941837391,,Policy
+83017,5,Washington,"Island County, WA",2001,73884,right_only,6.767365058740729,,Policy
+83018,5,Washington,"Island County, WA",2002,74840,right_only,6.680919294494922,,Policy
+83019,5,Washington,"Island County, WA",2003,74670,right_only,6.696129637069775,,Policy
+83020,5,Washington,"Island County, WA",2004,77667,right_only,6.43774061055532,,Policy
+83021,5,Washington,"Island County, WA",2005,77589,right_only,6.444212452796143,,Policy
+83022,5,Washington,"Island County, WA",2006,79136,right_only,6.3182369591589165,,Policy
+83023,5,Washington,"Island County, WA",2007,78726,right_only,6.35114193531997,,Policy
+83024,5,Washington,"Island County, WA",2008,78375,right_only,6.379585326953749,,Policy
+83025,5,Washington,"Island County, WA",2009,78248,right_only,6.38993967896943,-3.0,Policy
+83026,5,Washington,"Island County, WA",2010,78506,right_only,6.368939953634117,-2.0,Policy
+83027,5,Washington,"Island County, WA",2011,78971,right_only,6.331438122855225,-1.0,Policy
+83028,5,Washington,"Island County, WA",2012,79177,right_only,6.314965204541723,0.0,Policy
+83029,5,Washington,"Island County, WA",2013,78801,right_only,6.3450971434372665,1.0,Policy
+83030,5,Washington,"Island County, WA",2014,79275,right_only,6.30715862503942,2.0,Policy
+83031,5,Washington,"Island County, WA",2015,80593,right_only,6.204012755450225,,Policy
+83032,5,Washington,"Island County, WA",2016,82636,right_only,6.050631685948013,,Policy
+83033,5,Washington,"Island County, WA",2017,83159,right_only,6.012578313832538,,Policy
+83034,5,Washington,"Island County, WA",2018,84460,right_only,5.919962112242482,,Policy
+83035,5,Washington,"Island County, WA",2019,85141,right_only,5.872611315347482,,Policy
+83036,5,Washington,"Island County, WA",2020,86014,right_only,5.813007184876881,,Policy
+83037,5,Washington,"Jefferson County, WA",1999,25646,right_only,19.49621773375965,,Policy
+83038,5,Washington,"Jefferson County, WA",2000,25953,right_only,19.26559549955689,,Policy
+83039,5,Washington,"Jefferson County, WA",2001,26845,right_only,18.625442354255913,,Policy
+83040,5,Washington,"Jefferson County, WA",2002,27201,right_only,18.38167714422264,,Policy
+83041,5,Washington,"Jefferson County, WA",2003,27588,right_only,18.12382195157315,,Policy
+83042,5,Washington,"Jefferson County, WA",2004,27949,right_only,17.889727718344126,,Policy
+83043,5,Washington,"Jefferson County, WA",2005,28506,right_only,17.540166982389675,,Policy
+83044,5,Washington,"Jefferson County, WA",2006,29239,right_only,17.100448031738434,,Policy
+83045,5,Washington,"Jefferson County, WA",2007,29346,right_only,17.038097185306345,,Policy
+83046,5,Washington,"Jefferson County, WA",2008,29648,right_only,16.86454398273071,,Policy
+83047,5,Washington,"Jefferson County, WA",2009,29714,right_only,16.827084875816112,-3.0,Policy
+83048,5,Washington,"Jefferson County, WA",2010,29872,right_only,16.738082485270485,-2.0,Policy
+83049,5,Washington,"Jefferson County, WA",2011,29924,right_only,16.7089961235129,-1.0,Policy
+83050,5,Washington,"Jefferson County, WA",2012,29854,right_only,16.74817444898506,0.0,Policy
+83051,5,Washington,"Jefferson County, WA",2013,30076,right_only,16.624551137119298,1.0,Policy
+83052,5,Washington,"Jefferson County, WA",2014,30228,right_only,16.540955405584228,2.0,Policy
+83053,5,Washington,"Jefferson County, WA",2015,30466,right_only,16.411737674785005,,Policy
+83054,5,Washington,"Jefferson County, WA",2016,31139,right_only,16.0570345868525,,Policy
+83055,5,Washington,"Jefferson County, WA",2017,31234,right_only,16.008196196452584,,Policy
+83056,5,Washington,"Jefferson County, WA",2018,31729,right_only,15.758454410791389,,Policy
+83057,5,Washington,"Jefferson County, WA",2019,32221,right_only,15.517829986654666,,Policy
+83058,5,Washington,"Jefferson County, WA",2020,32700,right_only,15.29051987767584,,Policy
+83059,5,Washington,"King County, WA",1999,1729058,right_only,0.2891747992259369,,Policy
+83060,5,Washington,"King County, WA",2000,1737034,right_only,0.28784698514824697,,Policy
+83061,5,Washington,"King County, WA",2001,1754090,right_only,0.2850480876123802,,Policy
+83062,5,Washington,"King County, WA",2002,1758685,right_only,0.2843033289076782,,Policy
+83063,5,Washington,"King County, WA",2003,1763440,right_only,0.2835367236764506,,Policy
+83064,5,Washington,"King County, WA",2004,1775297,right_only,0.28164301522505814,,Policy
+83065,5,Washington,"King County, WA",2005,1795268,right_only,0.2785099494894356,,Policy
+83066,5,Washington,"King County, WA",2006,1822967,right_only,0.27427814107441334,,Policy
+83067,5,Washington,"King County, WA",2007,1847986,right_only,0.27056482029625767,,Policy
+83068,5,Washington,"King County, WA",2008,1875020,right_only,0.26666382225256263,,Policy
+83069,5,Washington,"King County, WA",2009,1912012,right_only,0.2615046349081491,-3.0,Policy
+83070,5,Washington,"King County, WA",2010,1931249,right_only,0.2588998104335588,-2.0,Policy
+83071,5,Washington,"King County, WA",2011,1969722,right_only,0.25384292808832926,-1.0,Policy
+83072,5,Washington,"King County, WA",2012,2007440,right_only,0.2490734467779859,0.0,Policy
+83073,5,Washington,"King County, WA",2013,2044449,right_only,0.24456467243741467,1.0,Policy
+83074,5,Washington,"King County, WA",2014,2079967,right_only,0.24038842923950238,2.0,Policy
+83075,5,Washington,"King County, WA",2015,2117125,right_only,0.23616933341205645,,Policy
+83076,5,Washington,"King County, WA",2016,2149970,right_only,0.2325613845774592,,Policy
+83077,5,Washington,"King County, WA",2017,2188649,right_only,0.22845143282454153,,Policy
+83078,5,Washington,"King County, WA",2018,2233163,right_only,0.22389767338971675,,Policy
+83079,5,Washington,"King County, WA",2019,2252782,right_only,0.22194779610277426,,Policy
+83080,5,Washington,"King County, WA",2020,2274315,right_only,0.21984641529427543,,Policy
+83081,5,Washington,"Kitsap County, WA",1999,229393,right_only,2.1796654649444402,,Policy
+83082,5,Washington,"Kitsap County, WA",2000,231969,right_only,2.155460427902004,,Policy
+83083,5,Washington,"Kitsap County, WA",2001,234513,right_only,2.1320779658270546,,Policy
+83084,5,Washington,"Kitsap County, WA",2002,238129,right_only,2.099702262219217,,Policy
+83085,5,Washington,"Kitsap County, WA",2003,239758,right_only,2.085436148116017,,Policy
+83086,5,Washington,"Kitsap County, WA",2004,241960,right_only,2.066457265663746,,Policy
+83087,5,Washington,"Kitsap County, WA",2005,239806,right_only,2.0850187234681368,,Policy
+83088,5,Washington,"Kitsap County, WA",2006,245054,right_only,2.040366613073037,,Policy
+83089,5,Washington,"Kitsap County, WA",2007,244105,right_only,2.048298887773704,,Policy
+83090,5,Washington,"Kitsap County, WA",2008,246912,right_only,2.0250129600829445,,Policy
+83091,5,Washington,"Kitsap County, WA",2009,248800,right_only,2.009646302250804,-3.0,Policy
+83092,5,Washington,"Kitsap County, WA",2010,251133,right_only,1.990976892722183,-2.0,Policy
+83093,5,Washington,"Kitsap County, WA",2011,254633,right_only,1.9636103725754321,-1.0,Policy
+83094,5,Washington,"Kitsap County, WA",2012,254991,right_only,1.960853520320325,0.0,Policy
+83095,5,Washington,"Kitsap County, WA",2013,253968,right_only,1.9687519687519688,1.0,Policy
+83096,5,Washington,"Kitsap County, WA",2014,254183,right_only,1.9670867052477938,2.0,Policy
+83097,5,Washington,"Kitsap County, WA",2015,260131,right_only,1.922108476113958,,Policy
+83098,5,Washington,"Kitsap County, WA",2016,264811,right_only,1.8881390878777693,,Policy
+83099,5,Washington,"Kitsap County, WA",2017,266414,right_only,1.8767782473894012,,Policy
+83100,5,Washington,"Kitsap County, WA",2018,269805,right_only,1.8531902670447173,,Policy
+83101,5,Washington,"Kitsap County, WA",2019,271473,right_only,1.8418037889587546,,Policy
+83102,5,Washington,"Kitsap County, WA",2020,272787,right_only,1.8329319212425814,,Policy
+83103,5,Washington,"Kittitas County, WA",1999,32914,right_only,15.19110408944522,,Policy
+83104,5,Washington,"Kittitas County, WA",2000,33362,right_only,14.987111084467356,,Policy
+83105,5,Washington,"Kittitas County, WA",2001,34000,right_only,14.705882352941176,,Policy
+83106,5,Washington,"Kittitas County, WA",2002,34977,right_only,14.29510821396918,,Policy
+83107,5,Washington,"Kittitas County, WA",2003,35726,right_only,13.995409505682135,,Policy
+83108,5,Washington,"Kittitas County, WA",2004,36921,right_only,13.542428428265756,,Policy
+83109,5,Washington,"Kittitas County, WA",2005,37537,right_only,13.32019074513147,,Policy
+83110,5,Washington,"Kittitas County, WA",2006,38680,right_only,12.926577042399174,,Policy
+83111,5,Washington,"Kittitas County, WA",2007,39158,right_only,12.768782879615914,,Policy
+83112,5,Washington,"Kittitas County, WA",2008,40015,right_only,12.495314257153568,,Policy
+83113,5,Washington,"Kittitas County, WA",2009,40466,right_only,12.356051994266792,-3.0,Policy
+83114,5,Washington,"Kittitas County, WA",2010,40915,right_only,12.220457045093486,-2.0,Policy
+83115,5,Washington,"Kittitas County, WA",2011,41629,right_only,12.010857815465181,-1.0,Policy
+83116,5,Washington,"Kittitas County, WA",2012,41672,right_only,11.998464196582837,0.0,Policy
+83117,5,Washington,"Kittitas County, WA",2013,41765,right_only,11.971746677840297,1.0,Policy
+83118,5,Washington,"Kittitas County, WA",2014,42522,right_only,11.75861906777668,2.0,Policy
+83119,5,Washington,"Kittitas County, WA",2015,43269,right_only,11.555617185513878,,Policy
+83120,5,Washington,"Kittitas County, WA",2016,44866,right_only,11.144296349128517,,Policy
+83121,5,Washington,"Kittitas County, WA",2017,46205,right_only,10.821339681852614,,Policy
+83122,5,Washington,"Kittitas County, WA",2018,47364,right_only,10.556540832699941,,Policy
+83123,5,Washington,"Kittitas County, WA",2019,47935,right_only,10.43079169708981,,Policy
+83124,5,Washington,"Kittitas County, WA",2020,49204,right_only,10.161775465409317,,Policy
+83125,5,Washington,"Klickitat County, WA",1999,18929,right_only,26.414496275556022,,Policy
+83126,5,Washington,"Klickitat County, WA",2000,19161,right_only,26.094671468086215,,Policy
+83127,5,Washington,"Klickitat County, WA",2001,19161,right_only,26.094671468086215,,Policy
+83128,5,Washington,"Klickitat County, WA",2002,19060,right_only,26.23294858342078,,Policy
+83129,5,Washington,"Klickitat County, WA",2003,19242,right_only,25.984824862280426,,Policy
+83130,5,Washington,"Klickitat County, WA",2004,19232,right_only,25.998336106489184,,Policy
+83131,5,Washington,"Klickitat County, WA",2005,19279,right_only,25.93495513252762,,Policy
+83132,5,Washington,"Klickitat County, WA",2006,19701,right_only,25.379422364346986,,Policy
+83133,5,Washington,"Klickitat County, WA",2007,19898,right_only,25.1281535832747,,Policy
+83134,5,Washington,"Klickitat County, WA",2008,20135,right_only,24.832381425378696,,Policy
+83135,5,Washington,"Klickitat County, WA",2009,20164,right_only,24.79666732791113,-3.0,Policy
+83136,5,Washington,"Klickitat County, WA",2010,20318,right_only,24.608721330839646,-2.0,Policy
+83137,5,Washington,"Klickitat County, WA",2011,20697,right_only,24.15809054452336,-1.0,Policy
+83138,5,Washington,"Klickitat County, WA",2012,20699,right_only,24.155756316730276,0.0,Policy
+83139,5,Washington,"Klickitat County, WA",2013,20866,right_only,23.96242691459791,1.0,Policy
+83140,5,Washington,"Klickitat County, WA",2014,20861,right_only,23.968170269881597,2.0,Policy
+83141,5,Washington,"Klickitat County, WA",2015,21026,right_only,23.780081803481405,,Policy
+83142,5,Washington,"Klickitat County, WA",2016,21301,right_only,23.473076381390545,,Policy
+83143,5,Washington,"Klickitat County, WA",2017,21811,right_only,22.924212553298794,,Policy
+83144,5,Washington,"Klickitat County, WA",2018,22107,right_only,22.61727054779029,,Policy
+83145,5,Washington,"Klickitat County, WA",2019,22425,right_only,22.296544035674472,,Policy
+83146,5,Washington,"Klickitat County, WA",2020,22697,right_only,22.029343084989204,,Policy
+83147,5,Washington,"Lewis County, WA",1999,68345,right_only,7.315824127587973,,Policy
+83148,5,Washington,"Lewis County, WA",2000,68600,right_only,7.288629737609329,,Policy
+83149,5,Washington,"Lewis County, WA",2001,68934,right_only,7.253314764847534,,Policy
+83150,5,Washington,"Lewis County, WA",2002,69452,right_only,7.199216725220296,,Policy
+83151,5,Washington,"Lewis County, WA",2003,70366,right_only,7.105704459540119,,Policy
+83152,5,Washington,"Lewis County, WA",2004,71021,right_only,7.040171216963997,,Policy
+83153,5,Washington,"Lewis County, WA",2005,72060,right_only,6.938662225922843,,Policy
+83154,5,Washington,"Lewis County, WA",2006,73318,right_only,6.819607736163016,,Policy
+83155,5,Washington,"Lewis County, WA",2007,74229,right_only,6.735911840385834,,Policy
+83156,5,Washington,"Lewis County, WA",2008,74899,right_only,6.675656550821774,,Policy
+83157,5,Washington,"Lewis County, WA",2009,75316,right_only,6.638695629082798,-3.0,Policy
+83158,5,Washington,"Lewis County, WA",2010,75455,right_only,6.62646610562587,-2.0,Policy
+83159,5,Washington,"Lewis County, WA",2011,75901,right_only,6.5875284910607235,-1.0,Policy
+83160,5,Washington,"Lewis County, WA",2012,75621,right_only,6.611919969320692,0.0,Policy
+83161,5,Washington,"Lewis County, WA",2013,75081,right_only,6.659474434277647,1.0,Policy
+83162,5,Washington,"Lewis County, WA",2014,75128,right_only,6.655308273879246,2.0,Policy
+83163,5,Washington,"Lewis County, WA",2015,75882,right_only,6.589177934160934,,Policy
+83164,5,Washington,"Lewis County, WA",2016,77066,right_only,6.4879453974515355,,Policy
+83165,5,Washington,"Lewis County, WA",2017,78200,right_only,6.39386189258312,,Policy
+83166,5,Washington,"Lewis County, WA",2018,79604,right_only,6.281091402442088,,Policy
+83167,5,Washington,"Lewis County, WA",2019,80707,right_only,6.195249482696668,,Policy
+83168,5,Washington,"Lewis County, WA",2020,82109,right_only,6.089466440950444,,Policy
+83169,5,Washington,"Lincoln County, WA",1999,10129,right_only,49.36321453253036,,Policy
+83170,5,Washington,"Lincoln County, WA",2000,10184,right_only,49.096622152395916,,Policy
+83171,5,Washington,"Lincoln County, WA",2001,10123,right_only,49.392472587177714,,Policy
+83172,5,Washington,"Lincoln County, WA",2002,10092,right_only,49.54419342053111,,Policy
+83173,5,Washington,"Lincoln County, WA",2003,10206,right_only,48.99078973153047,,Policy
+83174,5,Washington,"Lincoln County, WA",2004,10442,right_only,47.88354721317755,,Policy
+83175,5,Washington,"Lincoln County, WA",2005,10350,right_only,48.309178743961354,,Policy
+83176,5,Washington,"Lincoln County, WA",2006,10418,right_only,47.99385678633135,,Policy
+83177,5,Washington,"Lincoln County, WA",2007,10509,right_only,47.57826624797792,,Policy
+83178,5,Washington,"Lincoln County, WA",2008,10608,right_only,47.1342383107089,,Policy
+83179,5,Washington,"Lincoln County, WA",2009,10570,right_only,47.30368968779565,-3.0,Policy
+83180,5,Washington,"Lincoln County, WA",2010,10570,right_only,47.30368968779565,-2.0,Policy
+83181,5,Washington,"Lincoln County, WA",2011,10476,right_only,47.72814051164567,-1.0,Policy
+83182,5,Washington,"Lincoln County, WA",2012,10437,right_only,47.906486538277285,0.0,Policy
+83183,5,Washington,"Lincoln County, WA",2013,10301,right_only,48.538976798369085,1.0,Policy
+83184,5,Washington,"Lincoln County, WA",2014,10250,right_only,48.78048780487805,2.0,Policy
+83185,5,Washington,"Lincoln County, WA",2015,10321,right_only,48.44491812808836,,Policy
+83186,5,Washington,"Lincoln County, WA",2016,10350,right_only,48.309178743961354,,Policy
+83187,5,Washington,"Lincoln County, WA",2017,10579,right_only,47.263446450515175,,Policy
+83188,5,Washington,"Lincoln County, WA",2018,10740,right_only,46.554934823091244,,Policy
+83189,5,Washington,"Lincoln County, WA",2019,10939,right_only,45.70801718621446,,Policy
+83190,5,Washington,"Lincoln County, WA",2020,11090,right_only,45.08566275924256,,Policy
+83191,5,Washington,"Mason County, WA",1999,48753,right_only,10.255779131540622,,Policy
+83192,5,Washington,"Mason County, WA",2000,49405,right_only,10.120433154539015,,Policy
+83193,5,Washington,"Mason County, WA",2001,50298,right_only,9.940753111455724,,Policy
+83194,5,Washington,"Mason County, WA",2002,51215,right_only,9.762764814995606,,Policy
+83195,5,Washington,"Mason County, WA",2003,52351,right_only,9.55091593283796,,Policy
+83196,5,Washington,"Mason County, WA",2004,53819,right_only,9.290399301361973,,Policy
+83197,5,Washington,"Mason County, WA",2005,55198,right_only,9.058299213739629,,Policy
+83198,5,Washington,"Mason County, WA",2006,56872,right_only,8.791672527781685,,Policy
+83199,5,Washington,"Mason County, WA",2007,58679,right_only,8.520935939603605,,Policy
+83200,5,Washington,"Mason County, WA",2008,59785,right_only,8.363301831563101,,Policy
+83201,5,Washington,"Mason County, WA",2009,60333,right_only,8.287338604080686,-3.0,Policy
+83202,5,Washington,"Mason County, WA",2010,60699,right_only,8.237367996177861,-2.0,Policy
+83203,5,Washington,"Mason County, WA",2011,61019,right_only,8.194169029318736,-1.0,Policy
+83204,5,Washington,"Mason County, WA",2012,60832,right_only,8.219358232509206,0.0,Policy
+83205,5,Washington,"Mason County, WA",2013,60497,right_only,8.264872638312642,1.0,Policy
+83206,5,Washington,"Mason County, WA",2014,60711,right_only,8.235739816507717,2.0,Policy
+83207,5,Washington,"Mason County, WA",2015,61023,right_only,8.193631909280107,,Policy
+83208,5,Washington,"Mason County, WA",2016,62198,right_only,8.038843692723239,,Policy
+83209,5,Washington,"Mason County, WA",2017,63710,right_only,7.848061528802385,,Policy
+83210,5,Washington,"Mason County, WA",2018,65507,right_only,7.632772070160441,,Policy
+83211,5,Washington,"Mason County, WA",2019,66768,right_only,7.488617301701415,,Policy
+83212,5,Washington,"Mason County, WA",2020,68224,right_only,7.328799249530958,,Policy
+83213,5,Washington,"Okanogan County, WA",1999,39394,right_only,12.692288165710513,,Policy
+83214,5,Washington,"Okanogan County, WA",2000,39564,right_only,12.637751491254676,,Policy
+83215,5,Washington,"Okanogan County, WA",2001,39126,right_only,12.779226090067986,,Policy
+83216,5,Washington,"Okanogan County, WA",2002,38865,right_only,12.865045670912131,,Policy
+83217,5,Washington,"Okanogan County, WA",2003,38575,right_only,12.961762799740766,,Policy
+83218,5,Washington,"Okanogan County, WA",2004,38847,right_only,12.871006770149561,,Policy
+83219,5,Washington,"Okanogan County, WA",2005,39143,right_only,12.77367600848172,,Policy
+83220,5,Washington,"Okanogan County, WA",2006,39322,right_only,12.715528203041554,,Policy
+83221,5,Washington,"Okanogan County, WA",2007,39676,right_only,12.602076822260308,,Policy
+83222,5,Washington,"Okanogan County, WA",2008,40235,right_only,12.426991425375917,,Policy
+83223,5,Washington,"Okanogan County, WA",2009,40699,right_only,12.285314135482444,-3.0,Policy
+83224,5,Washington,"Okanogan County, WA",2010,41120,right_only,12.15953307392996,-2.0,Policy
+83225,5,Washington,"Okanogan County, WA",2011,41411,right_only,12.074086595349062,-1.0,Policy
+83226,5,Washington,"Okanogan County, WA",2012,41275,right_only,12.113870381586917,0.0,Policy
+83227,5,Washington,"Okanogan County, WA",2013,41193,right_only,12.137984609035517,1.0,Policy
+83228,5,Washington,"Okanogan County, WA",2014,41290,right_only,12.10946960523129,2.0,Policy
+83229,5,Washington,"Okanogan County, WA",2015,41516,right_only,12.043549474901242,,Policy
+83230,5,Washington,"Okanogan County, WA",2016,41554,right_only,12.032535977282572,,Policy
+83231,5,Washington,"Okanogan County, WA",2017,41742,right_only,11.97834315557472,,Policy
+83232,5,Washington,"Okanogan County, WA",2018,42132,right_only,11.867464160258237,,Policy
+83233,5,Washington,"Okanogan County, WA",2019,42243,right_only,11.836280567194565,,Policy
+83234,5,Washington,"Okanogan County, WA",2020,42620,right_only,11.731581417175034,,Policy
+83235,5,Washington,"Pacific County, WA",1999,21039,right_only,23.76538808878749,,Policy
+83236,5,Washington,"Pacific County, WA",2000,20984,right_only,23.82767823103317,,Policy
+83237,5,Washington,"Pacific County, WA",2001,20631,right_only,24.235373951820076,,Policy
+83238,5,Washington,"Pacific County, WA",2002,20514,right_only,24.37359851808521,,Policy
+83239,5,Washington,"Pacific County, WA",2003,20885,right_only,23.940627244433802,,Policy
+83240,5,Washington,"Pacific County, WA",2004,20953,right_only,23.862931322483654,,Policy
+83241,5,Washington,"Pacific County, WA",2005,21228,right_only,23.553796872055777,,Policy
+83242,5,Washington,"Pacific County, WA",2006,21326,right_only,23.445559411047547,,Policy
+83243,5,Washington,"Pacific County, WA",2007,21415,right_only,23.34812047630166,,Policy
+83244,5,Washington,"Pacific County, WA",2008,21305,right_only,23.46866932644919,,Policy
+83245,5,Washington,"Pacific County, WA",2009,21026,right_only,23.780081803481405,-3.0,Policy
+83246,5,Washington,"Pacific County, WA",2010,20920,right_only,23.90057361376673,-2.0,Policy
+83247,5,Washington,"Pacific County, WA",2011,20930,right_only,23.889154323936932,-1.0,Policy
+83248,5,Washington,"Pacific County, WA",2012,20575,right_only,24.301336573511545,0.0,Policy
+83249,5,Washington,"Pacific County, WA",2013,20498,right_only,24.39262367060201,1.0,Policy
+83250,5,Washington,"Pacific County, WA",2014,20561,right_only,24.31788337143135,2.0,Policy
+83251,5,Washington,"Pacific County, WA",2015,20848,right_only,23.983115886415963,,Policy
+83252,5,Washington,"Pacific County, WA",2016,21249,right_only,23.530519083250976,,Policy
+83253,5,Washington,"Pacific County, WA",2017,21626,right_only,23.120318135577545,,Policy
+83254,5,Washington,"Pacific County, WA",2018,22036,right_only,22.690143401706298,,Policy
+83255,5,Washington,"Pacific County, WA",2019,22471,right_only,22.25090116149704,,Policy
+83256,5,Washington,"Pacific County, WA",2020,22984,right_only,21.7542638357118,,Policy
+83257,5,Washington,"Pend Oreille County, WA",1999,11658,right_only,42.88900325956425,,Policy
+83258,5,Washington,"Pend Oreille County, WA",2000,11732,right_only,42.61847937265598,,Policy
+83259,5,Washington,"Pend Oreille County, WA",2001,11807,right_only,42.34775980350639,,Policy
+83260,5,Washington,"Pend Oreille County, WA",2002,11934,right_only,41.897100720630135,,Policy
+83261,5,Washington,"Pend Oreille County, WA",2003,12029,right_only,41.566214980463876,,Policy
+83262,5,Washington,"Pend Oreille County, WA",2004,12244,right_only,40.836327997386476,,Policy
+83263,5,Washington,"Pend Oreille County, WA",2005,12357,right_only,40.462895524803756,,Policy
+83264,5,Washington,"Pend Oreille County, WA",2006,12681,right_only,39.42906710827222,,Policy
+83265,5,Washington,"Pend Oreille County, WA",2007,12828,right_only,38.97723729342064,,Policy
+83266,5,Washington,"Pend Oreille County, WA",2008,12985,right_only,38.50596842510589,,Policy
+83267,5,Washington,"Pend Oreille County, WA",2009,13043,right_only,38.33473894042782,-3.0,Policy
+83268,5,Washington,"Pend Oreille County, WA",2010,13001,right_only,38.45858010922237,-2.0,Policy
+83269,5,Washington,"Pend Oreille County, WA",2011,12936,right_only,38.651824366110084,-1.0,Policy
+83270,5,Washington,"Pend Oreille County, WA",2012,12980,right_only,38.52080123266564,0.0,Policy
+83271,5,Washington,"Pend Oreille County, WA",2013,12896,right_only,38.77171215880894,1.0,Policy
+83272,5,Washington,"Pend Oreille County, WA",2014,12985,right_only,38.50596842510589,2.0,Policy
+83273,5,Washington,"Pend Oreille County, WA",2015,13088,right_only,38.20293398533008,,Policy
+83274,5,Washington,"Pend Oreille County, WA",2016,13123,right_only,38.101043968604735,,Policy
+83275,5,Washington,"Pend Oreille County, WA",2017,13354,right_only,37.4419649543208,,Policy
+83276,5,Washington,"Pend Oreille County, WA",2018,13602,right_only,36.75930010292604,,Policy
+83277,5,Washington,"Pend Oreille County, WA",2019,13724,right_only,36.43252696006995,,Policy
+83278,5,Washington,"Pend Oreille County, WA",2020,14144,right_only,35.35067873303167,,Policy
+83279,5,Washington,"Pierce County, WA",1999,692662,right_only,0.7218527940034244,,Policy
+83280,5,Washington,"Pierce County, WA",2000,700820,right_only,0.7134499586199023,,Policy
+83281,5,Washington,"Pierce County, WA",2001,716447,right_only,0.6978883294926211,,Policy
+83282,5,Washington,"Pierce County, WA",2002,728091,right_only,0.68672734589495,,Policy
+83283,5,Washington,"Pierce County, WA",2003,733969,right_only,0.6812276812780921,,Policy
+83284,5,Washington,"Pierce County, WA",2004,740137,right_only,0.6755506075226614,,Policy
+83285,5,Washington,"Pierce County, WA",2005,748148,right_only,0.6683169640231612,,Policy
+83286,5,Washington,"Pierce County, WA",2006,763408,right_only,0.6549577683230986,,Policy
+83287,5,Washington,"Pierce County, WA",2007,772484,right_only,0.6472625970246633,,Policy
+83288,5,Washington,"Pierce County, WA",2008,785400,right_only,0.6366182836771072,,Policy
+83289,5,Washington,"Pierce County, WA",2009,796483,right_only,0.6277597889722694,-3.0,Policy
+83290,5,Washington,"Pierce County, WA",2010,795225,right_only,0.6287528686849634,-2.0,Policy
+83291,5,Washington,"Pierce County, WA",2011,807904,right_only,0.6188854121281737,-1.0,Policy
+83292,5,Washington,"Pierce County, WA",2012,811681,right_only,0.6160055489779852,0.0,Policy
+83293,5,Washington,"Pierce County, WA",2013,819743,right_only,0.609947263959558,1.0,Policy
+83294,5,Washington,"Pierce County, WA",2014,831928,right_only,0.6010135492494543,2.0,Policy
+83295,5,Washington,"Pierce County, WA",2015,843954,right_only,0.5924493515049398,,Policy
+83296,5,Washington,"Pierce County, WA",2016,861312,right_only,0.5805097339872195,,Policy
+83297,5,Washington,"Pierce County, WA",2017,876764,right_only,0.5702788891879684,,Policy
+83298,5,Washington,"Pierce County, WA",2018,891299,right_only,0.5609789756299514,,Policy
+83299,5,Washington,"Pierce County, WA",2019,904980,right_only,0.5524983977546465,,Policy
+83300,5,Washington,"Pierce County, WA",2020,913890,right_only,0.5471117968245631,,Policy
+83301,5,Washington,"San Juan County, WA",1999,13762,right_only,36.33192849876472,,Policy
+83302,5,Washington,"San Juan County, WA",2000,14077,right_only,35.518931590537754,,Policy
+83303,5,Washington,"San Juan County, WA",2001,14334,right_only,34.88209850704619,,Policy
+83304,5,Washington,"San Juan County, WA",2002,14628,right_only,34.18102269619907,,Policy
+83305,5,Washington,"San Juan County, WA",2003,14787,right_only,33.81348481774531,,Policy
+83306,5,Washington,"San Juan County, WA",2004,15071,right_only,33.17629885210006,,Policy
+83307,5,Washington,"San Juan County, WA",2005,15167,right_only,32.966308432781695,,Policy
+83308,5,Washington,"San Juan County, WA",2006,15270,right_only,32.74394237066143,,Policy
+83309,5,Washington,"San Juan County, WA",2007,15400,right_only,32.467532467532465,,Policy
+83310,5,Washington,"San Juan County, WA",2008,15590,right_only,32.071840923669015,,Policy
+83311,5,Washington,"San Juan County, WA",2009,15714,right_only,31.818760341097107,-3.0,Policy
+83312,5,Washington,"San Juan County, WA",2010,15769,right_only,31.707781089479354,-2.0,Policy
+83313,5,Washington,"San Juan County, WA",2011,15844,right_only,31.55768745266347,-1.0,Policy
+83314,5,Washington,"San Juan County, WA",2012,15824,right_only,31.59757330637007,0.0,Policy
+83315,5,Washington,"San Juan County, WA",2013,15875,right_only,31.49606299212598,1.0,Policy
+83316,5,Washington,"San Juan County, WA",2014,16015,right_only,31.220730565095224,2.0,Policy
+83317,5,Washington,"San Juan County, WA",2015,16252,right_only,30.765444253015016,,Policy
+83318,5,Washington,"San Juan County, WA",2016,16339,right_only,30.601628006609953,,Policy
+83319,5,Washington,"San Juan County, WA",2017,16715,right_only,29.91325157044571,,Policy
+83320,5,Washington,"San Juan County, WA",2018,17128,right_only,29.19196637085474,,Policy
+83321,5,Washington,"San Juan County, WA",2019,17582,right_only,28.43817540666591,,Policy
+83322,5,Washington,"San Juan County, WA",2020,17492,right_only,28.584495769494623,,Policy
+83323,5,Washington,"Skagit County, WA",1999,101701,right_only,4.916372503711861,,Policy
+83324,5,Washington,"Skagit County, WA",2000,102979,right_only,4.855358859573311,,Policy
+83325,5,Washington,"Skagit County, WA",2001,104534,right_only,4.783132760632904,,Policy
+83326,5,Washington,"Skagit County, WA",2002,105563,right_only,4.736508056800205,,Policy
+83327,5,Washington,"Skagit County, WA",2003,107369,right_only,4.656837634699029,,Policy
+83328,5,Washington,"Skagit County, WA",2004,109030,right_only,4.585893790699807,,Policy
+83329,5,Washington,"Skagit County, WA",2005,110683,right_only,4.517405563636692,,Policy
+83330,5,Washington,"Skagit County, WA",2006,112621,right_only,4.439669333428046,,Policy
+83331,5,Washington,"Skagit County, WA",2007,114066,right_only,4.383427138674101,,Policy
+83332,5,Washington,"Skagit County, WA",2008,115808,right_only,4.317491019618679,,Policy
+83333,5,Washington,"Skagit County, WA",2009,116557,right_only,4.289746647562994,-3.0,Policy
+83334,5,Washington,"Skagit County, WA",2010,116901,right_only,4.277123377900959,-2.0,Policy
+83335,5,Washington,"Skagit County, WA",2011,118109,right_only,4.233377642685993,-1.0,Policy
+83336,5,Washington,"Skagit County, WA",2012,118222,right_only,4.229331258141463,0.0,Policy
+83337,5,Washington,"Skagit County, WA",2013,118837,right_only,4.207443809587923,1.0,Policy
+83338,5,Washington,"Skagit County, WA",2014,120365,right_only,4.154031487558676,2.0,Policy
+83339,5,Washington,"Skagit County, WA",2015,121846,right_only,4.103540534773402,,Policy
+83340,5,Washington,"Skagit County, WA",2016,123681,right_only,4.0426581285726995,,Policy
+83341,5,Washington,"Skagit County, WA",2017,125619,right_only,3.9802896058717234,,Policy
+83342,5,Washington,"Skagit County, WA",2018,128206,right_only,3.8999734801803343,,Policy
+83343,5,Washington,"Skagit County, WA",2019,129205,right_only,3.86981927943965,,Policy
+83344,5,Washington,"Skagit County, WA",2020,130789,right_only,3.8229514714540214,,Policy
+83345,5,Washington,"Skamania County, WA",1999,9774,right_only,51.156128504194804,,Policy
+83346,5,Washington,"Skamania County, WA",2000,9872,right_only,50.6482982171799,,Policy
+83347,5,Washington,"Skamania County, WA",2001,9833,right_only,50.84918132818062,,Policy
+83348,5,Washington,"Skamania County, WA",2002,9886,right_only,50.57657293141817,,Policy
+83349,5,Washington,"Skamania County, WA",2003,10046,right_only,49.77105315548477,,Policy
+83350,5,Washington,"Skamania County, WA",2004,10236,right_only,48.84720593982024,,Policy
+83351,5,Washington,"Skamania County, WA",2005,10303,right_only,48.529554498689706,,Policy
+83352,5,Washington,"Skamania County, WA",2006,10583,right_only,47.24558253803269,,Policy
+83353,5,Washington,"Skamania County, WA",2007,10786,right_only,46.356387910254035,,Policy
+83354,5,Washington,"Skamania County, WA",2008,10918,right_only,45.79593332112108,,Policy
+83355,5,Washington,"Skamania County, WA",2009,10955,right_only,45.64125969876768,-3.0,Policy
+83356,5,Washington,"Skamania County, WA",2010,11066,right_only,45.183444785830474,-2.0,Policy
+83357,5,Washington,"Skamania County, WA",2011,11137,right_only,44.89539373260303,-1.0,Policy
+83358,5,Washington,"Skamania County, WA",2012,11187,right_only,44.69473496022169,0.0,Policy
+83359,5,Washington,"Skamania County, WA",2013,11274,right_only,44.34983147064041,1.0,Policy
+83360,5,Washington,"Skamania County, WA",2014,11340,right_only,44.091710758377424,2.0,Policy
+83361,5,Washington,"Skamania County, WA",2015,11339,right_only,44.09559925919393,,Policy
+83362,5,Washington,"Skamania County, WA",2016,11510,right_only,43.440486533449175,,Policy
+83363,5,Washington,"Skamania County, WA",2017,11837,right_only,42.24043254202923,,Policy
+83364,5,Washington,"Skamania County, WA",2018,11924,right_only,41.93223750419322,,Policy
+83365,5,Washington,"Skamania County, WA",2019,12083,right_only,41.380451874534465,,Policy
+83366,5,Washington,"Skamania County, WA",2020,12107,right_only,41.298422400264315,,Policy
+83367,5,Washington,"Snohomish County, WA",1999,597931,right_only,0.8362168879017813,,Policy
+83368,5,Washington,"Snohomish County, WA",2000,606024,right_only,0.8250498330099137,,Policy
+83369,5,Washington,"Snohomish County, WA",2001,622390,right_only,0.8033548096852456,,Policy
+83370,5,Washington,"Snohomish County, WA",2002,631526,right_only,0.7917330402865441,,Policy
+83371,5,Washington,"Snohomish County, WA",2003,635612,right_only,0.7866434239756329,,Policy
+83372,5,Washington,"Snohomish County, WA",2004,643533,right_only,0.7769609328503745,,Policy
+83373,5,Washington,"Snohomish County, WA",2005,654849,right_only,0.7635347996255626,,Policy
+83374,5,Washington,"Snohomish County, WA",2006,670706,right_only,0.7454831177893145,,Policy
+83375,5,Washington,"Snohomish County, WA",2007,683997,right_only,0.7309973581755476,,Policy
+83376,5,Washington,"Snohomish County, WA",2008,694622,right_only,0.7198159574559976,,Policy
+83377,5,Washington,"Snohomish County, WA",2009,706302,right_only,0.7079124793643512,-3.0,Policy
+83378,5,Washington,"Snohomish County, WA",2010,713335,right_only,0.7009329417454633,-2.0,Policy
+83379,5,Washington,"Snohomish County, WA",2011,722400,right_only,0.6921373200442968,-1.0,Policy
+83380,5,Washington,"Snohomish County, WA",2012,733036,right_only,0.6820947402310391,0.0,Policy
+83381,5,Washington,"Snohomish County, WA",2013,745913,right_only,0.6703194608486512,1.0,Policy
+83382,5,Washington,"Snohomish County, WA",2014,759583,right_only,0.658255911467213,2.0,Policy
+83383,5,Washington,"Snohomish County, WA",2015,772501,right_only,0.6472483530765656,,Policy
+83384,5,Washington,"Snohomish County, WA",2016,787620,right_only,0.6348238998501815,,Policy
+83385,5,Washington,"Snohomish County, WA",2017,801633,right_only,0.6237268176335056,,Policy
+83386,5,Washington,"Snohomish County, WA",2018,814901,right_only,0.6135714645091858,,Policy
+83387,5,Washington,"Snohomish County, WA",2019,822083,right_only,0.6082110930404837,,Policy
+83388,5,Washington,"Snohomish County, WA",2020,830393,right_only,0.602124536213576,,Policy
+83389,5,Washington,"Spokane County, WA",1999,415426,right_only,1.2035837910963687,,Policy
+83390,5,Washington,"Spokane County, WA",2000,417939,right_only,1.1963468353037165,,Policy
+83391,5,Washington,"Spokane County, WA",2001,422922,right_only,1.1822511006757745,,Policy
+83392,5,Washington,"Spokane County, WA",2002,427107,right_only,1.170666835242691,,Policy
+83393,5,Washington,"Spokane County, WA",2003,430710,right_only,1.1608739058763438,,Policy
+83394,5,Washington,"Spokane County, WA",2004,435268,right_only,1.1487175717029507,,Policy
+83395,5,Washington,"Spokane County, WA",2005,440439,right_only,1.1352309854486093,,Policy
+83396,5,Washington,"Spokane County, WA",2006,447517,right_only,1.1172759917500341,,Policy
+83397,5,Washington,"Spokane County, WA",2007,456150,right_only,1.0961306587745259,,Policy
+83398,5,Washington,"Spokane County, WA",2008,462263,right_only,1.0816353461124943,,Policy
+83399,5,Washington,"Spokane County, WA",2009,468235,right_only,1.0678398667335847,-3.0,Policy
+83400,5,Washington,"Spokane County, WA",2010,471221,right_only,1.0610732543753356,-2.0,Policy
+83401,5,Washington,"Spokane County, WA",2011,473761,right_only,1.0553844660071219,-1.0,Policy
+83402,5,Washington,"Spokane County, WA",2012,475735,right_only,1.0510052865565915,0.0,Policy
+83403,5,Washington,"Spokane County, WA",2013,479398,right_only,1.042974730808222,1.0,Policy
+83404,5,Washington,"Spokane County, WA",2014,484318,right_only,1.0323795522776358,2.0,Policy
+83405,5,Washington,"Spokane County, WA",2015,490945,right_only,1.0184440212243733,,Policy
+83406,5,Washington,"Spokane County, WA",2016,499072,right_only,1.0018594511413181,,Policy
+83407,5,Washington,"Spokane County, WA",2017,506152,right_only,0.9878455483728208,,Policy
+83408,5,Washington,"Spokane County, WA",2018,514631,right_only,0.9715699209725025,,Policy
+83409,5,Washington,"Spokane County, WA",2019,522798,right_only,0.9563923350892697,,Policy
+83410,5,Washington,"Spokane County, WA",2020,528225,right_only,0.9465663306356193,,Policy
+83411,5,Washington,"Stevens County, WA",1999,39524,right_only,12.650541443173768,,Policy
+83412,5,Washington,"Stevens County, WA",2000,40066,right_only,12.479408975190934,,Policy
+83413,5,Washington,"Stevens County, WA",2001,40204,right_only,12.436573475276091,,Policy
+83414,5,Washington,"Stevens County, WA",2002,40334,right_only,12.396489314226212,,Policy
+83415,5,Washington,"Stevens County, WA",2003,40589,right_only,12.318608489984973,,Policy
+83416,5,Washington,"Stevens County, WA",2004,41022,right_only,12.188581736629125,,Policy
+83417,5,Washington,"Stevens County, WA",2005,41612,right_only,12.015764683264443,,Policy
+83418,5,Washington,"Stevens County, WA",2006,42366,right_only,11.801916631260916,,Policy
+83419,5,Washington,"Stevens County, WA",2007,43059,right_only,11.611974267865023,,Policy
+83420,5,Washington,"Stevens County, WA",2008,43398,right_only,11.521268261210194,,Policy
+83421,5,Washington,"Stevens County, WA",2009,43548,right_only,11.481583540001838,-3.0,Policy
+83422,5,Washington,"Stevens County, WA",2010,43531,right_only,11.486067400243504,-2.0,Policy
+83423,5,Washington,"Stevens County, WA",2011,43496,right_only,11.49530991355527,-1.0,Policy
+83424,5,Washington,"Stevens County, WA",2012,43538,right_only,11.484220680784603,0.0,Policy
+83425,5,Washington,"Stevens County, WA",2013,43430,right_only,11.512779184895233,1.0,Policy
+83426,5,Washington,"Stevens County, WA",2014,43650,right_only,11.45475372279496,2.0,Policy
+83427,5,Washington,"Stevens County, WA",2015,43791,right_only,11.417871252083762,,Policy
+83428,5,Washington,"Stevens County, WA",2016,44439,right_only,11.251378293840995,,Policy
+83429,5,Washington,"Stevens County, WA",2017,44730,right_only,11.1781801922647,,Policy
+83430,5,Washington,"Stevens County, WA",2018,45260,right_only,11.04728236853734,,Policy
+83431,5,Washington,"Stevens County, WA",2019,45723,right_only,10.93541543643243,,Policy
+83432,5,Washington,"Stevens County, WA",2020,46360,right_only,10.785159620362382,,Policy
+83433,5,Washington,"Thurston County, WA",1999,204873,right_only,2.4405363322643785,,Policy
+83434,5,Washington,"Thurston County, WA",2000,207355,right_only,2.4113235755105977,,Policy
+83435,5,Washington,"Thurston County, WA",2001,212421,right_only,2.353816242273598,,Policy
+83436,5,Washington,"Thurston County, WA",2002,216313,right_only,2.3114653303315102,,Policy
+83437,5,Washington,"Thurston County, WA",2003,219499,right_only,2.2779147057617575,,Policy
+83438,5,Washington,"Thurston County, WA",2004,222985,right_only,2.242303293943539,,Policy
+83439,5,Washington,"Thurston County, WA",2005,227023,right_only,2.202420019117006,,Policy
+83440,5,Washington,"Thurston County, WA",2006,232688,right_only,2.1488001100185654,,Policy
+83441,5,Washington,"Thurston County, WA",2007,237772,right_only,2.10285483572498,,Policy
+83442,5,Washington,"Thurston County, WA",2008,244332,right_only,2.046395887562824,,Policy
+83443,5,Washington,"Thurston County, WA",2009,249936,right_only,2.0005121311055634,-3.0,Policy
+83444,5,Washington,"Thurston County, WA",2010,252264,right_only,1.9820505502172328,-2.0,Policy
+83445,5,Washington,"Thurston County, WA",2011,256591,right_only,1.948626413241306,-1.0,Policy
+83446,5,Washington,"Thurston County, WA",2012,258332,right_only,1.9354938606134742,0.0,Policy
+83447,5,Washington,"Thurston County, WA",2013,262388,right_only,1.905574950073936,1.0,Policy
+83448,5,Washington,"Thurston County, WA",2014,265851,right_only,1.8807527524816532,2.0,Policy
+83449,5,Washington,"Thurston County, WA",2015,269536,right_only,1.855039772052713,,Policy
+83450,5,Washington,"Thurston County, WA",2016,275222,right_only,1.816715233520576,,Policy
+83451,5,Washington,"Thurston County, WA",2017,280588,right_only,1.7819721442114416,,Policy
+83452,5,Washington,"Thurston County, WA",2018,286419,right_only,1.7456942451443516,,Policy
+83453,5,Washington,"Thurston County, WA",2019,290536,right_only,1.7209571275160394,,Policy
+83454,5,Washington,"Thurston County, WA",2020,294074,right_only,1.7002523174439088,,Policy
+83455,5,Washington,"Wahkiakum County, WA",1999,3790,right_only,131.92612137203164,,Policy
+83456,5,Washington,"Wahkiakum County, WA",2000,3824,right_only,130.7531380753138,,Policy
+83457,5,Washington,"Wahkiakum County, WA",2001,3776,right_only,132.41525423728814,,Policy
+83458,5,Washington,"Wahkiakum County, WA",2002,3789,right_only,131.9609395618897,,Policy
+83459,5,Washington,"Wahkiakum County, WA",2003,3662,right_only,136.53741125068268,,Policy
+83460,5,Washington,"Wahkiakum County, WA",2004,3729,right_only,134.08420488066506,,Policy
+83461,5,Washington,"Wahkiakum County, WA",2005,3824,right_only,130.7531380753138,,Policy
+83462,5,Washington,"Wahkiakum County, WA",2006,3936,right_only,127.03252032520325,,Policy
+83463,5,Washington,"Wahkiakum County, WA",2007,3975,right_only,125.78616352201257,,Policy
+83464,5,Washington,"Wahkiakum County, WA",2008,4033,right_only,123.97718819737169,,Policy
+83465,5,Washington,"Wahkiakum County, WA",2009,3995,right_only,125.15644555694618,-3.0,Policy
+83466,5,Washington,"Wahkiakum County, WA",2010,3978,right_only,125.6913021618904,-2.0,Policy
+83467,5,Washington,"Wahkiakum County, WA",2011,3991,right_only,125.28188423953897,-1.0,Policy
+83468,5,Washington,"Wahkiakum County, WA",2012,3993,right_only,125.2191334835963,0.0,Policy
+83469,5,Washington,"Wahkiakum County, WA",2013,4042,right_only,123.70113805047005,1.0,Policy
+83470,5,Washington,"Wahkiakum County, WA",2014,4067,right_only,122.94074256208506,2.0,Policy
+83471,5,Washington,"Wahkiakum County, WA",2015,4042,right_only,123.70113805047005,,Policy
+83472,5,Washington,"Wahkiakum County, WA",2016,4139,right_only,120.80212611741968,,Policy
+83473,5,Washington,"Wahkiakum County, WA",2017,4264,right_only,117.26078799249532,,Policy
+83474,5,Washington,"Wahkiakum County, WA",2018,4426,right_only,112.96882060551287,,Policy
+83475,5,Washington,"Wahkiakum County, WA",2019,4488,right_only,111.40819964349376,,Policy
+83476,5,Washington,"Wahkiakum County, WA",2020,4498,right_only,111.16051578479323,,Policy
+83477,5,Washington,"Walla Walla County, WA",1999,54806,right_only,9.123088712914646,,Policy
+83478,5,Washington,"Walla Walla County, WA",2000,55180,right_only,9.061254077564335,,Policy
+83479,5,Washington,"Walla Walla County, WA",2001,55072,right_only,9.079023823358513,,Policy
+83480,5,Washington,"Walla Walla County, WA",2002,55666,right_only,8.982143498724536,,Policy
+83481,5,Washington,"Walla Walla County, WA",2003,56108,right_only,8.911385185713266,,Policy
+83482,5,Washington,"Walla Walla County, WA",2004,56652,right_only,8.825813740026831,,Policy
+83483,5,Washington,"Walla Walla County, WA",2005,56569,right_only,8.838763280241828,,Policy
+83484,5,Washington,"Walla Walla County, WA",2006,56705,right_only,8.817564588660613,,Policy
+83485,5,Washington,"Walla Walla County, WA",2007,56840,right_only,8.796622097114708,,Policy
+83486,5,Washington,"Walla Walla County, WA",2008,57315,right_only,8.723719794120212,,Policy
+83487,5,Washington,"Walla Walla County, WA",2009,58103,right_only,8.60540763815982,-3.0,Policy
+83488,5,Washington,"Walla Walla County, WA",2010,58781,right_only,8.506149946411256,-2.0,Policy
+83489,5,Washington,"Walla Walla County, WA",2011,59588,right_only,8.39095119822783,-1.0,Policy
+83490,5,Washington,"Walla Walla County, WA",2012,59404,right_only,8.416941620092922,0.0,Policy
+83491,5,Washington,"Walla Walla County, WA",2013,59530,right_only,8.399126490844953,1.0,Policy
+83492,5,Washington,"Walla Walla County, WA",2014,59844,right_only,8.355056480181807,2.0,Policy
+83493,5,Washington,"Walla Walla County, WA",2015,60338,right_only,8.286651861182008,,Policy
+83494,5,Washington,"Walla Walla County, WA",2016,60340,right_only,8.286377195889957,,Policy
+83495,5,Washington,"Walla Walla County, WA",2017,60567,right_only,8.255320554097116,,Policy
+83496,5,Washington,"Walla Walla County, WA",2018,60922,right_only,8.207215784117396,,Policy
+83497,5,Washington,"Walla Walla County, WA",2019,60760,right_only,8.229098090849243,,Policy
+83498,5,Washington,"Walla Walla County, WA",2020,61292,right_only,8.15767147425439,,Policy
+83499,5,Washington,"Whatcom County, WA",1999,164566,right_only,3.038294665969884,,Policy
+83500,5,Washington,"Whatcom County, WA",2000,166814,right_only,2.997350342297409,,Policy
+83501,5,Washington,"Whatcom County, WA",2001,171172,right_only,2.921038487603113,,Policy
+83502,5,Washington,"Whatcom County, WA",2002,174904,right_only,2.8587110643553033,,Policy
+83503,5,Washington,"Whatcom County, WA",2003,177851,right_only,2.8113420784814256,,Policy
+83504,5,Washington,"Whatcom County, WA",2004,181756,right_only,2.7509408217610423,,Policy
+83505,5,Washington,"Whatcom County, WA",2005,185450,right_only,2.6961445133459154,,Policy
+83506,5,Washington,"Whatcom County, WA",2006,188926,right_only,2.646538856483491,,Policy
+83507,5,Washington,"Whatcom County, WA",2007,192837,right_only,2.5928634027702153,,Policy
+83508,5,Washington,"Whatcom County, WA",2008,196708,right_only,2.541838664416292,,Policy
+83509,5,Washington,"Whatcom County, WA",2009,199865,right_only,2.5016886398318867,-3.0,Policy
+83510,5,Washington,"Whatcom County, WA",2010,201140,right_only,2.485830764641543,-2.0,Policy
+83511,5,Washington,"Whatcom County, WA",2011,203663,right_only,2.4550360153783455,-1.0,Policy
+83512,5,Washington,"Whatcom County, WA",2012,205262,right_only,2.4359111769348445,0.0,Policy
+83513,5,Washington,"Whatcom County, WA",2013,206353,right_only,2.4230323765586155,1.0,Policy
+83514,5,Washington,"Whatcom County, WA",2014,208351,right_only,2.3997964972570327,2.0,Policy
+83515,5,Washington,"Whatcom County, WA",2015,212284,right_only,2.3553353055340955,,Policy
+83516,5,Washington,"Whatcom County, WA",2016,216800,right_only,2.3062730627306274,,Policy
+83517,5,Washington,"Whatcom County, WA",2017,221404,right_only,2.2583151162580624,,Policy
+83518,5,Washington,"Whatcom County, WA",2018,225685,right_only,2.215477324589583,,Policy
+83519,5,Washington,"Whatcom County, WA",2019,229247,right_only,2.1810536233843845,,Policy
+83520,5,Washington,"Whatcom County, WA",2020,231016,right_only,2.1643522526578245,,Policy
+83521,5,Washington,"Whitman County, WA",1999,40886,right_only,12.229124883823312,,Policy
+83522,5,Washington,"Whitman County, WA",2000,40740,right_only,12.272950417280313,,Policy
+83523,5,Washington,"Whitman County, WA",2001,40814,right_only,12.250698289802518,,Policy
+83524,5,Washington,"Whitman County, WA",2002,41484,right_only,12.05283964902131,,Policy
+83525,5,Washington,"Whitman County, WA",2003,41442,right_only,12.065054775348681,,Policy
+83526,5,Washington,"Whitman County, WA",2004,42158,right_only,11.860145168176858,,Policy
+83527,5,Washington,"Whitman County, WA",2005,42836,right_only,11.672425063031096,,Policy
+83528,5,Washington,"Whitman County, WA",2006,42827,right_only,11.674877997524927,,Policy
+83529,5,Washington,"Whitman County, WA",2007,42608,right_only,11.734885467517836,,Policy
+83530,5,Washington,"Whitman County, WA",2008,43802,right_only,11.41500388110132,,Policy
+83531,5,Washington,"Whitman County, WA",2009,44705,right_only,11.184431271669835,-3.0,Policy
+83532,5,Washington,"Whitman County, WA",2010,44776,right_only,11.166696444523852,-2.0,Policy
+83533,5,Washington,"Whitman County, WA",2011,45077,right_only,11.092131242096857,-1.0,Policy
+83534,5,Washington,"Whitman County, WA",2012,46606,right_only,10.728232416427069,0.0,Policy
+83535,5,Washington,"Whitman County, WA",2013,46570,right_only,10.736525660296328,1.0,Policy
+83536,5,Washington,"Whitman County, WA",2014,46827,right_only,10.677600529608986,2.0,Policy
+83537,5,Washington,"Whitman County, WA",2015,48177,right_only,10.378396330199058,,Policy
+83538,5,Washington,"Whitman County, WA",2016,48851,right_only,10.235205011156372,,Policy
+83539,5,Washington,"Whitman County, WA",2017,49046,right_only,10.19451127512947,,Policy
+83540,5,Washington,"Whitman County, WA",2018,49791,right_only,10.041975457411983,,Policy
+83541,5,Washington,"Whitman County, WA",2019,50104,right_only,9.97924317419767,,Policy
+83542,5,Washington,"Whitman County, WA",2020,49500,right_only,10.1010101010101,,Policy
+83543,5,Washington,"Yakima County, WA",1999,221573,right_only,2.256592635384275,,Policy
+83544,5,Washington,"Yakima County, WA",2000,222581,right_only,2.2463732304194877,,Policy
+83545,5,Washington,"Yakima County, WA",2001,222757,right_only,2.244598374012938,,Policy
+83546,5,Washington,"Yakima County, WA",2002,223402,right_only,2.238117832427642,,Policy
+83547,5,Washington,"Yakima County, WA",2003,225161,right_only,2.220633235773513,,Policy
+83548,5,Washington,"Yakima County, WA",2004,227280,right_only,2.1999296022527277,,Policy
+83549,5,Washington,"Yakima County, WA",2005,228570,right_only,2.1875136719604495,,Policy
+83550,5,Washington,"Yakima County, WA",2006,230617,right_only,2.1680968879137272,,Policy
+83551,5,Washington,"Yakima County, WA",2007,232733,right_only,2.148384629597006,,Policy
+83552,5,Washington,"Yakima County, WA",2008,235272,right_only,2.1251997687782653,,Policy
+83553,5,Washington,"Yakima County, WA",2009,239604,right_only,2.0867765145823944,-3.0,Policy
+83554,5,Washington,"Yakima County, WA",2010,243231,right_only,2.0556590237264167,-2.0,Policy
+83555,5,Washington,"Yakima County, WA",2011,247141,right_only,2.02313659004374,-1.0,Policy
+83556,5,Washington,"Yakima County, WA",2012,246977,right_only,2.0244800123088385,0.0,Policy
+83557,5,Washington,"Yakima County, WA",2013,247044,right_only,2.0239309596671036,1.0,Policy
+83558,5,Washington,"Yakima County, WA",2014,247687,right_only,2.0186767977326223,2.0,Policy
+83559,5,Washington,"Yakima County, WA",2015,248830,right_only,2.0094040107704054,,Policy
+83560,5,Washington,"Yakima County, WA",2016,249636,right_only,2.002916246054255,,Policy
+83561,5,Washington,"Yakima County, WA",2017,250193,right_only,1.9984571910485105,,Policy
+83562,5,Washington,"Yakima County, WA",2018,251446,right_only,1.9884985245340947,,Policy
+83563,5,Washington,"Yakima County, WA",2019,250873,right_only,1.9930403032610124,,Policy
+83564,5,Washington,"Yakima County, WA",2020,251879,right_only,1.9850801376851586,,Policy
 86359,5,Wyoming,"Albany County, WY",1999,32192,right_only,15.531809145129225,,Control
 86360,5,Wyoming,"Albany County, WY",2000,32014,right_only,15.618167051914789,,Control
 86361,5,Wyoming,"Albany County, WY",2001,32419,right_only,15.42305438168975,,Control
